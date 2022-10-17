@@ -1,0 +1,31 @@
+首先导入sys模块
+
+import sys
+
+1.sys.argv  命令行参数List，第一个元素是程序本身路径
+>>>F:\python\oldboy\sys_test>python sys.py 1 2 3 4
+['sys.py', '1', '2', '3', '4']
+>>>print(sys.argv)
+>>>sys.exit(0)
+['F:/python/oldboy/sys_test/sys.py']
+
+2.sys.exit(n)  退出程序,正常退出sys.exit(0)
+
+3.sys.version  查看python版本
+>>>sys.version
+'3.6.2 (v3.6.2:5fd33b5, Jul  8 2017, 04:57:36) [MSC v.1900 64 bit (AMD64)]'
+
+4.sys.path  查看python环境变量路径及其他路径
+>>>sys.path
+['', 'C:\\Program Files\\Python36\\python36.zip', 'C:\\Program Files\\Python36\\DLLs', 'C:\\Program Files\\Python36\\lib', 'C:\\Program Files\\Python36',
+'C:\\Program Files\\Python36\\lib\\site-packages', 'C:\\Program Files\\Python36\\lib\\site-packages\\win32', 'C:\\Program Files\\Python36\\lib\\site-packages\\win32\\lib',
+'C:\\Program Files\\Python36\\lib\\site-packages\\Pythonwin']
+
+5.sys.maxint   最大的int值
+
+6.sys.platform  返回操作系统平台名称
+>>>sys.platform
+'win32'
+
+7.sys.stdout.write('please:')
+8.val = sys.stdin.readline()[:-1]

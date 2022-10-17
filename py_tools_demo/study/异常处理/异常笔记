@@ -1,0 +1,10 @@
+try:
+    # names[3]
+    data['name']
+    open("tes.txt")
+except Exception as e:
+    print("出错了",e)
+# except (KeyError,IndexError) as e:
+#     print("没有这个Key",e)
+# except IndexError as e:
+#     print("列表操作错误",e)

@@ -1,0 +1,97 @@
+在python中时间有三种表示格式
+
+1.时间戳  ——————>>> time.time()
+gmtime()  传入的是UTC标准时间  UTC标准时间和北京时间差8小时
+A.将时间戳转换成元组
+>>>time.time()---结果为UTC+8--
+time.struct_time(tm_year=2017, tm_mon=8, tm_mday=9, tm_hour=1, tm_min=37, tm_sec=44, tm_wday=2, tm_yday=221, tm_isdst=0)
+>>>time.gmtime()--结果为UTC时区-
+time.struct_time(tm_year=2017, tm_mon=8, tm_mday=9, tm_hour=1, tm_min=51, tm_sec=26, tm_wday=2, tm_yday=221, tm_isdst=0)
+B.将元组转换成时间戳
+>>>x = time.localtime()
+time.struct_time(tm_year=2017, tm_mon=8, tm_mday=9, tm_hour=9, tm_min=35, tm_sec=9, tm_wday=2, tm_yday=221, tm_isdst=0)
+>>>time.mktime(x)
+1502243937.0
+2.struct_time(tuple)
+A.将元祖struct_time(tuple)转换成格式化的字符串
+strftime("格式",struct_time)---->>>>格式化的字符串
+>>>time.strftime("%Y/%M/%D %H:%M:%S",x)
+'2017/08/09 09:58:57'
+3.格式化的字符串
+B.将格式化的字符串转换成元祖struct_time(tuple)
+strptime("格式化的字符串","格式")------>>>struct_time
+>>>time.strptime('2017/08/09 09:58:57',"%Y/%m/%d %H:%M:%S")
+time.struct_time(tm_year=2017, tm_mon=8, tm_mday=9, tm_hour=9, tm_min=58, tm_sec=57, tm_wday=2, tm_yday=221, tm_isdst=-1)
+ x.tm_year = 2016 年
+ x.tm_mon = 8  月
+ x.tm_day = 9  日
+ x.tm_hour = 9  小时
+ x.tm_min = 58  分钟
+ x.tm_sec = 57  秒
+ 4.asctime()
+>>> time.asctime()  将元组转换成时间戳  接受元组格式
+'Wed Aug  9 10:36:29 2017'
+5.ctime()
+>>>time.ctime()  将时间戳转换为元组  接收时间戳
+'Wed Aug  9 10:38:35 2017'
+------------------///////////////////////////////---------------------------------------//////////////////////////////
+
+import datetime
+
+1.获取当前时间
+>>>datetime.datetime.now()
+datetime.datetime(2017, 8, 9, 10, 47, 29, 59405)
+>>>print(datetime.datetime.now())
+2017-08-09 10:50:21.162773
+2.获取未来和过去的时间
+>>>print(datetime.datetime.now()+datetime.timedelta(3))  当前时间+3天
+2017-08-12 10:52:34.840324
+>>>print(datetime.datetime.now()+datetime.timedelta(-3))  当前时间-3天
+2017-08-06 10:54:30.434443
+>>>print(datetime.datetime.now()+datetime.timedelta(hours=3))  当前时间+3小时
+2017-08-09 13:56:27.004094
+>>>print(datetime.datetime.now()+datetime.timedelta(minutes=30))  当前时间+30分钟
+2017-08-09 11:28:16.044349
+3.对当前时间修改
+>>>x = datetime.datetime().now()
+>>>print(x.replace(minute=15,hour=15))  修改分钟为15 小时为15
+2017-08-09 15:15:12.670905
+
+---------------------///////////////////////////-----------------------------------////////////////////////////////////
+时间格式参照
+
+%a    本地（locale）简化星期名称
+%A    本地完整星期名称
+%b    本地简化月份名称
+%B    本地完整月份名称
+%c    本地相应的日期和时间表示
+%d    一个月中的第几天（01 - 31）
+%H    一天中的第几个小时（24小时制，00 - 23）
+%I    第几个小时（12小时制，01 - 12）
+%j    一年中的第几天（001 - 366）
+%m    月份（01 - 12）
+%M    分钟数（00 - 59）
+%p    本地am或者pm的相应符    一
+%S    秒（01 - 61）    二
+%U    一年中的星期数。（00 - 53星期天是一个星期的开始。）第一个星期天之前的所有天数都放在第0周。    三
+%w    一个星期中的第几天（0 - 6，0是星期天）    三
+%W    和%U基本相同，不同的是%W以星期一为一个星期的开始。
+%x    本地相应日期
+%X    本地相应时间
+%y    去掉世纪的年份（00 - 99）
+%Y    完整的年份
+%Z    时区的名字（如果不存在为空字符）
+%%    ‘%’字符
+
+
+
+
+
+
+
+
+
+
+
+
+

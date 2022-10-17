@@ -1,0 +1,31 @@
+服务端
+import socket
+server = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+server.bind(localhost,9999)  IP地址  端口号
+servre.listen()  监听
+while True:
+    conn,addr = server.accept()  #阻塞
+    while True:
+        print("new conn",addr)
+        data = conn.recv(1042)  #8192  recv默认阻塞
+        if not data:
+            break  #客户端已断开，conn.recv收到的就是空数据
+        print(data)
+        conn.send(data.upper())
+
+客户端
+client = socket.socket()
+client.connect(serverip,9999)
+client.send(data)
+client.send(data)
+client.recv(data)
+
+
+1.First, you must create a request handler class by subclassing the BaseRequestHandlerclass and overriding its handle() method; this method will process incoming requests. 　　
+你必须创建一个请求处理类，并且这个类要继承BaseRequestHandle，并且这个类还要重写父类里面的Handle方法。
+2.Second, you must instantiate one of the server classes, passing it the server’s address and the request handler class.
+您必须实例化一个服务器类，将服务器的地址和请求处理程序类传递给它。
+3.Then call the handle_request() or serve_forever() method of the server object to process one or many requests.
+然后调用handle_request()（处理一个请求）和sevre_forever（处理多个请求）
+4.Finally, call server_close() to close the socket.
+调用server_close()去关闭socket

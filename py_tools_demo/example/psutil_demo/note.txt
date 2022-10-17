@@ -1,0 +1,11 @@
+import psutil
+
+# 查看物理cpu信息
+# cpu性能
+print(psutil.cpu_time().idle())
+# 内存信息
+print(psutil.virtual_memory())
+print(psutil.virtual_memory().percent())
+# 虚拟内存
+print(psutil.swap_memory())
+print(psutil.swap_memory().percent)

@@ -1,0 +1,46 @@
+random方法的使用
+
+首先导入random模块
+
+import random
+
+生成随机数
+
+>>>random.random()
+0.13087291341459328  随机生成0-1之间的随机浮点数
+>>>random.randint(0,5)  随机生成0-5之间的随机整数
+2
+>>>random.randint(0,5)
+5
+>>>range(5)   生成0-4之间的数  顾头不顾尾
+range(0,5)
+>>>for i in range(5):
+       print(i)
+0
+1
+2
+3
+4
+由于range()的特殊性(顾头不顾尾),所以:
+>>>random.randrange(1,5)  生成的随机数不会出现5
+2
+>>>random.randrange(5)
+4
+>>>random.randrange(5)
+1
+序列  ---->>>字符串  列表  元组
+
+>>>random.choice("hello")  随机取出字符串"hello"的任意元素
+'o'
+>>>random.choice("hello")
+'l'
+>>>random.choice(['ewf','dvv'])
+'e'
+>>>random.sample("hello",2)  随机取出hello中的任意两个元素
+'e','o'
+>>>random.uniform(1,10)   随机生成0-10之间的浮点数
+5.044861078363517
+
+>>>l = [1,2,3,4,5,6,7,8,9]
+>>>random.shuffle(l)  洗牌功能实现  实现乱序
+[1, 4, 7, 9, 2, 8, 6, 5, 3]

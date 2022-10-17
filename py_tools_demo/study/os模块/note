@@ -1,0 +1,99 @@
+首先导入os模块
+
+import os
+
+1.os.getcwd()  获取当前路径
+>>>os.getcwd()
+'C:\\Users\\75182'
+2.os.chdir() 进入任一路径
+>>>os.chdir(r'C:\\users')
+3.os.curdir()  返回当前目录
+>>>os.curdir()
+'.'
+4.os.pardir()  获取当前目录的父目录字符串名
+>>>os.pardir()
+'..'
+5.os.makedirs()  建立多级目录,可生成多层递归目录
+>>>os.makedirs(r'C:\a\b\c\d')
+6.os.removedirs()  若目录为空,则删除并递归返回上一层目录,如若也为空,则继续删除,以此类推
+>>>os.removedirs(r'C:\a\b\c\d')
+7.os.mkdir()  建立一级目录
+>>>os.mkdir(r'C:\a')
+8.os.rmdir() 删除单级空目录，若目录不为空则无法删除，报错
+>>>os.rmdir()
+9.os.listdir()  列出指定目录下的所有文件和子目录，包括隐藏文件，并以列表方式打印
+>>>os.list(r'd:')
+['$RECYCLE.BIN', '360WiFi', '7.02.25.2108.exe', 'adb.exe', 'AdbWinApi.dll', 'AdbWinUsbApi.dll', 'Android', 'AndroidWorkspace', 'BaiduNetdisk', 'BaiduNetdiskDownload', 'Config.Msi', 'Debian', 'download', 'driver', 'DTLDownLoads', 'DTLFolder', 'Eclipse', 'fastboot.exe', 'Foxit Software', 'generatorSqlmapCustom', 'IQIYI Video', 'java-neon', 'Kail', 'kingsoft', 'Microsoft Office', 'MSOCache', 'mysql', 'Navicat Premium', 'netfits_win', 'Notepad++', 'photo', 'project.zip', 'PyCharm 2017.2', 'qqpcmgr_docpro', 'Screenshot', 'springMVC', 'System Volume Information', 'Tencent', 'Thunder Network', 'TMP', 'tomcat', 'TWRP', 'Update.exe', 'VMware', 'xldl.dll', 'Youdao', '快压', '搜狗高速下载', '虾米音乐', '迅雷下载']
+10.os.remove()  删除一个文件
+>>>os.remove(r'C:\a\b\c\d.txt')
+11.os.rename('oldname','newname')  重命名文件/目录
+12.os.stat()  获取文件/目录信息
+>>>os.stat(r'd:')
+os.stat_result(st_mode=16895, st_ino=1407374883553285, st_dev=887275, st_nlink=1, st_uid=0, st_gid=0, st_size=32768, st_atime=1502259879, st_mtime=1502259879, st_ctime=1483695505)
+13.os.sep()  输出操作系统特定的路径分隔符，win下为"\\",Linux下为"/"
+>>>os.sep()
+'\\'
+14.os.linesep()  换行符,输出当前平台使用的行终止符，win下为"\r\n",Linux下为"\n"
+>>>os.linesep()
+'\r\n'
+15.os.pathsep()  输出用于分割文件路径的字符串
+>>>os.pathsep()
+';'
+16.os.environ  获取系统环境变量
+>>>os.environ
+environ({'ALLUSERSPROFILE': 'C:\\ProgramData', 'APPDATA': 'C:\\Users\\75182\\AppData\\Roaming', 'CATALINA_BASE':
+ 'C:\\tomcat', 'CATALINA_HOME': 'C:\\tomcat', 'CLASSPATH': '.;C:\\Program Files\\Java\\jdk1.8.0_141\\lib\\dt.jar;C:\\Program Files\\Java\\jdk1.8.0_141\\lib\\tools.jar', 'COMMONPROGRAMFILES':
+ 'C:\\Program Files\\Common Files', 'COMMONPROGRAMFILES(X86)': 'C:\\Program Files (x86)\\Common Files', 'COMMONPROGRAMW6432': 'C:\\Program Files\\Common Files', 'COMPUTERNAME': 'TOMTAO', 'COMSPEC':
+ 'C:\\WINDOWS\\system32\\cmd.exe', 'FPS_BROWSER_APP_PROFILE_STRING': 'Internet Explorer', 'FPS_BROWSER_USER_PROFILE_STRING': 'Default', 'HOMEDRIVE': 'C:', 'HOMEPATH': '\\Users\\75182', 'JAVA_HOME':
+ 'C:\\Program Files\\Java\\jdk1.8.0_141', 'LOCALAPPDATA': 'C:\\Users\\75182\\AppData\\Local', 'LOGONSERVER': '\\\\TOMTAO', 'MYSQLHOME': 'D:\\mysql', 'NUMBER_OF_PROCESSORS': '4', 'ONEDRIVE':
+ 'C:\\Users\\75182\\OneDrive', 'OS': 'Windows_NT', 'PATH': 'C:\\Program Files\\Python36\\Scripts\\;C:\\Program Files\\Python36\\;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;
+ C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Java\\jdk1.8.0_141\\bin;C:\\Program Files\\Java\\jdk1.8.0_141jre\\bin;D:\\mysqlbin;
+ C:\\tomcat\\lib;C:\\tomcat\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;
+ C:\\Users\\75182\\AppData\\Local\\Microsoft\\WindowsApps;', 'PATHEXT': '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW', 'PROCESSOR_ARCHITECTURE': 'AMD64', 'PROCESSOR_IDENTIFIER': 'Intel64 Family 6 Model 58 Stepping 9, GenuineIntel', 'PROCESSOR_LEVEL': '6', 'PROCESSOR_REVISION': '3a09', 'PROGRAMDATA':
+ 'C:\\ProgramData', 'PROGRAMFILES': 'C:\\Program Files', 'PROGRAMFILES(X86)': 'C:\\Program Files (x86)', 'PROGRAMW6432': 'C:\\Program Files', 'PROMPT': '$P$G', 'PSMODULEPATH':
+ 'C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules', 'PUBLIC': 'C:\\Users\\Public', 'SESSIONNAME': 'Console', 'SYSTEMDRIVE': 'C:', 'SYSTEMROOT':
+ 'C:\\WINDOWS', 'TEMP': 'C:\\Users\\75182\\AppData\\Local\\Temp', 'TMP': 'C:\\Users\\75182\\AppData\\Local\\Temp', 'USERDOMAIN': 'TOMTAO', 'USERDOMAIN_ROAMINGPROFILE': 'TOMTAO', 'USERNAME': '75182', 'USERPROFILE': 'C:\\Users\\75182', 'WINDIR': 'C:\\WINDOWS'})
+ 17.os.name 获取当前的系统操作平台
+ >>>os.name
+ 'nt'
+18.os.system()  运行shell命令，直接显示
+>>>os.system('calc')  打开计算器
+19.os.path.abspath(path)  返回path规范化的绝对路径
+20.os.path.split(path)  将path分割成目录和文件名二元组返回
+>>>os.path.split(r'C:\a\b\c\d.txt')
+('c:\\a\\b\\c', 'd.txt')
+21.os.path.dirname(path)  返回path的目录。其实就是os.path.split(path)的第一个元素
+>>>os.path.dirname(r'C:\a\b\c\d.txt')
+'c:\\a\\b\\c'
+22.os.path.basename(path)  返回path最后的文件名。如何path以／或\结尾，那么就会返回空值。即os.path.split(path)的第二个元素
+>>>os.path.basepath(r'C:\a\b\c\d.txt')
+'d.txt'
+23.os.path.exists(path)  如果path存在，返回True；如果path不存在，返回False
+>>>os.path.exists(r'C;')
+True
+>>>os.path.exists(r'C:\a\b')
+False
+24.os.path.isabs(path)  如果path是绝对路径，返回True
+>>>os.path.isabs(r'c:\a')
+True
+>>>os.path.isabs(r'C:')
+False
+25os.path.isfile(path)  如果path是一个存在的文件，返回True。否则返回False
+>>>os.path.isfile(r'D:\xldl.dll')
+True
+>>>os.path.isfile(r'D:')
+False
+26.os.path.isdir(path)  如果path是一个存在的目录，则返回True。否则返回False
+>>>os.path.isdir(r'C:\a')
+False
+>>>os.path.isdir(r'd:\driver')
+True
+27os.path.join(path1[, path2[, ...]])  将多个路径组合后返回，第一个绝对路径之前的参数将被忽略
+>>>os.path,join(r'C:',r'\a.txt')
+'c:\\a.txt'
+28os.path.getatime(path)  返回path所指向的文件或者目录的最后存取时间
+>>>os.path.getatime(r'D:\xldl.dll')
+1486782302.5879197
+29os.path.getmtime(path)  返回path所指向的文件或者目录的最后修改时间
+>>>os.path.getmtime(r'D;\xldl.dll')
+1484619557.0

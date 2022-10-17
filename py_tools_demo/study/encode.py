@@ -1,0 +1,5 @@
+# -*- coding:GBK -*-
+# Ayuthor:Tom_Tao
+
+s='ÄãºÃ'
+print(s.encode('gbk'))

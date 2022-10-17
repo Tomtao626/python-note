@@ -1,0 +1,5 @@
+lastmoney = eval(input("请输入你的最终金额："))
+years_value = eval(input("请输入月利率："))
+years = eval(input("请输入存款年限："))
+first_account_value = lastmoney/(1+years_value)**(years*12)
+print("所以你的最初存款金额为：",first_account_value)

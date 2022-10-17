@@ -1,0 +1,31 @@
+静态方法
+      只是名义上归类管理，实际上在静态方法里无法访问类或实例中的任何属性
+类方法
+       只能访问类变量，不能访问实例变量
+属性方法
+      把一个方法变成一个静态属性
+继承  组合
+      代码重用
+      单继承
+      多继承
+            2.7：经典类，深度优先  新式类，广度优先
+            3.x：全是广度优先
+            class Foo（object）:
+             class teacher(Schoolmember):
+                def __init__(self,name,age,sex,salary,course): #实现自身的功能
+                    super(teacher, self).__init__(name,age,sex)
+                    self.salary = salary
+                    self.course = course
+多态
+    一个接口，多种实现
+
+对象：实例化一个类之后的到的对象
+
+类
+    属性：
+            实例变量
+            类变量
+            私有属性__var
+    方法：
+            构造方法
+            析构函数

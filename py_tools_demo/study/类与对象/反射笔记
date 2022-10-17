@@ -1,0 +1,7 @@
+反射
+
+    hasattr（obj,name_str） 判断一个obj对象是否有对应的字符串的方法映射
+    getattr(obj,name_str)  根据字符串去获取obj对象里的对应方法的额内存地址
+            如果getattr()一个方法,返回的是一个内存地址
+            如果getattr()一个静态属性，返回的是传入的值
+    setattr(obj,'y',v) ,通过字符串设置一个新的属性

@@ -1,0 +1,8 @@
+a = eval(input("请输入a的值："))
+b = eval(input("请输入b的值："))
+#print(format(str(a),"<5d"),format(str(b),"<6d"),format(str(a**b),"<6d"))
+print(format(a,"<5d"),format(b,"<6d"),format(a**b,"<6d"))
+print(format(a+1,"<5d"),format(b+1,"<6d"),format((a+1)**(b+1),"<6d"))
+print(format(a+2,"<5d"),format(b+2,"<6d"),format((a+2)**(b+2),"<6d"))
+print(format(a+3,"<5d"),format(b+3,"<6d"),format((a+3)**(b+3),"<6d"))
+print(format(a+4,"<5d"),format(b+4,"<6d"),format((a+4)**(b+4),"<6d"))

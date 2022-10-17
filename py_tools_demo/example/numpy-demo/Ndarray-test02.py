@@ -1,0 +1,15 @@
+import numpy as np
+
+b = np.array([[1.1, 2.2, 3.3], [11.1, 12.2, 13.3], (111, 122, 133)], dtype=complex)
+print(b)
+print(type(b))
+print(b.dtype)
+print(b.ndim)
+print(b.size)
+print(b.shape)
+print(b.itemsize)
+print(b.data)
+print(np.zeros((4, 4)))
+print(np.ones((3, 3)))
+print(np.arange(2, 30, 2))
+print(np.arange(2, 10, 0.3))
