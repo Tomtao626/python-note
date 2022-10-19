@@ -1,0 +1,162 @@
+{
+  "_id": "61952738602ded5a1600c820",
+  "bizname": "notifysys",
+  "cliaddr": "10.15.1.7",
+  "clustername": "tob集群-欧盟区-德国",
+  "data": {
+    "cliaddr": "10.15.1.7",
+    "clustergray": true,
+    "clusterid": "tob集群-欧盟区-德国_v1.0.1-20181030-10:35",
+    "clustername": "tob集群-欧盟区-德国",
+    "data": {
+      "CostTime": 118.469918,
+      "FamilyId": "",
+      "Header": {
+        "Accept-Encoding": [
+          "gzip"
+        ],
+        "Connection": [
+          "close"
+        ],
+        "Content-Length": [
+          "268"
+        ],
+        "User-Agent": [
+          "Go-http-client/1.1"
+        ],
+        "X-Real-Ip": [
+          "77.243.19.63"
+        ]
+      },
+      "Path": "/v1/push/singlepush",
+      "ReqBody": {
+        "companyid": "8503b08fa57729df9faa45e4c978852c",
+        "content": "{\"code\":\"3294\"}",
+        "licenseid": "aae72184369e2fc3e6ded53a90612586",
+        "pushfromtag": "bizflow",
+        "tagcode": "亚马逊短信",
+        "taglist": "None",
+        "templateid": "eb0f3ce939228006020a30d3064d217d",
+        "touser": "00381652755502"
+      },
+      "Response": {
+        "data": {
+          "template": {
+            "ID": "",
+            "companyid": "",
+            "config": {
+              "alipushtemplate": {
+                "pushtype": "",
+                "title": ""
+              },
+              "alismstemplate": {},
+              "apnstemplate": {},
+              "awssmstemplate": {
+                "content": "[Intelligent AC verification code]: you are now using SMS to obtain Intelligent AC authentication code , verification code is %v .",
+                "keylist": [
+                  "code"
+                ],
+                "region": "eu-west-1"
+              },
+              "cnmobilesmstemplate": {
+                "content": "",
+                "keylist": [],
+                "messagesign": "",
+                "needreceipt": 0,
+                "receiptnotificationurl": "",
+                "templateid": 0
+              },
+              "defaultsmstemplate": {
+                "content": "",
+                "keylist": "None"
+              },
+              "fcmtemplate": {
+                "pushtype": ""
+              },
+              "innerthirdtemplate": {
+                "content": "",
+                "keylist": []
+              },
+              "kssmstemplate": {
+                "content": "",
+                "keylist": "None",
+                "signature": "",
+                "tplid": ""
+              },
+              "mailtemplate": {},
+              "sanzismstemplate": {
+                "content": "",
+                "keylist": "None",
+                "signature": "",
+                "template_code": 0
+              },
+              "tencentsmstemplate": {
+                "content": "",
+                "keylist": "None",
+                "signname": "",
+                "tpl_id": 0
+              },
+              "twiliosmstemplate": {
+                "content": "",
+                "keylist": []
+              },
+              "wechatpushtemplate": {}
+            },
+            "frompushtemplate": false,
+            "language": "en",
+            "location": "en",
+            "pushtype": "短信推送",
+            "servertype": "awssms",
+            "templateid": "eb0f3ce939228006020a30d3064d217d",
+            "templatename": "Intelligent AC verification code",
+            "terminaltype": "phone",
+            "updatetime": "2020-07-15 11:33:22"
+          }
+        },
+        "msg": "Success",
+        "status": 0
+      },
+      "TraceKey": {
+        "messageid": "e3aab768-86be-4613-9aa8-a3644a51ca89",
+        "userid": ""
+      },
+      "Url": "/v1/push/singlepush"
+    },
+    "error": 0,
+    "machinestatus": {
+      "machineid": "7f9a483ba605f6622557c7dc54b57288494c8164",
+      "machineip": [
+        "172.30.11.246"
+      ]
+    },
+    "msg": "Success",
+    "occurtime": "2021-11-17_23:57:37",
+    "remoteip": "77.243.19.63",
+    "reqhandler": "pushHandler",
+    "savetime": 1637164853,
+    "savetimeunixnano": 1637164853770747100,
+    "servicename": "pushfront",
+    "status": 0,
+    "suggestion": "Success",
+    "tracedata": {},
+    "uploadtype": "serv_pushfront_v1"
+  },
+  "description": "推送前端(新)",
+  "messageid": "e3aab768-86be-4613-9aa8-a3644a51ca89",
+  "occurtime": "2021-11-17_23:57:37",
+  "pushtype": "",
+  "recordtype": "serv_pushfront_v1",
+  "reqdes": "推送调用",
+  "reqhandler": "pushHandler",
+  "requestname": "pushHandler",
+  "savetime": 1637164853,
+  "status": "",
+  "statusdes": "",
+  "systemtag": "pushfront",
+  "tablename": "serv_pushfront_v1_2021_11_18",
+  "tagcode": "亚马逊短信",
+  "templateid": "eb0f3ce939228006020a30d3064d217d",
+  "timecost": "",
+  "touser": "00381652755502",
+  "userid": ""
+}

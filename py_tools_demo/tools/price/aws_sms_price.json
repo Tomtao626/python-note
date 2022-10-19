@@ -1,0 +1,3692 @@
+[
+  {
+    "code": "PR",
+    "areacode": "+1787",
+    "price": 0.00507
+  },
+  {
+    "code": "PS",
+    "areacode": "+970",
+    "price": 0.15738
+  },
+  {
+    "code": "PT",
+    "areacode": "+351",
+    "price": 0.03031
+  },
+  {
+    "code": "PW",
+    "areacode": "+680",
+    "price": 0.01073
+  },
+  {
+    "code": "PY",
+    "areacode": "+595",
+    "price": 0.0237
+  },
+  {
+    "code": "QA",
+    "areacode": "+974",
+    "price": 0.03973
+  },
+  {
+    "code": "AC",
+    "areacode": null,
+    "price": 0.18784
+  },
+  {
+    "code": "AD",
+    "areacode": "+376",
+    "price": 0.04
+  },
+  {
+    "code": "AE",
+    "areacode": "+971",
+    "price": 0.0368
+  },
+  {
+    "code": "AF",
+    "areacode": "+93",
+    "price": 0.19658
+  },
+  {
+    "code": "AG",
+    "areacode": "+1268",
+    "price": 0.04405
+  },
+  {
+    "code": "AI",
+    "areacode": "+1264",
+    "price": 0.04391
+  },
+  {
+    "code": "AL",
+    "areacode": "+355",
+    "price": 0.09029
+  },
+  {
+    "code": "AM",
+    "areacode": "+374",
+    "price": 0.12597
+  },
+  {
+    "code": "AO",
+    "areacode": "+244",
+    "price": 0.08983
+  },
+  {
+    "code": "AQ",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "AR",
+    "areacode": "+54",
+    "price": 0.05164
+  },
+  {
+    "code": "AS",
+    "areacode": "+1684",
+    "price": 0.02096
+  },
+  {
+    "code": "AT",
+    "areacode": "+43",
+    "price": 0.10526
+  },
+  {
+    "code": "RE",
+    "areacode": "+262",
+    "price": 0.17186
+  },
+  {
+    "code": "AU",
+    "areacode": "+61",
+    "price": 0.0345
+  },
+  {
+    "code": "AW",
+    "areacode": "+297",
+    "price": 0.05365
+  },
+  {
+    "code": "AX",
+    "areacode": null,
+    "price": 0.13407
+  },
+  {
+    "code": "AZ",
+    "areacode": "+994",
+    "price": 0.27119
+  },
+  {
+    "code": "RO",
+    "areacode": "+40",
+    "price": 0.07804
+  },
+  {
+    "code": "BA",
+    "areacode": "+387",
+    "price": 0.07463
+  },
+  {
+    "code": "BB",
+    "areacode": "+1246",
+    "price": 0.07118
+  },
+  {
+    "code": "RS",
+    "areacode": "+381",
+    "price": 0.03136
+  },
+  {
+    "code": "BD",
+    "areacode": "+880",
+    "price": 0.2049
+  },
+  {
+    "code": "BE",
+    "areacode": "+32",
+    "price": 0.09582
+  },
+  {
+    "code": "RU",
+    "areacode": "+7",
+    "price": 0.05281
+  },
+  {
+    "code": "BF",
+    "areacode": "+226",
+    "price": 0.06243
+  },
+  {
+    "code": "BG",
+    "areacode": "+359",
+    "price": 0.10554
+  },
+  {
+    "code": "RW",
+    "areacode": "+250",
+    "price": 0.03473
+  },
+  {
+    "code": "BH",
+    "areacode": "+973",
+    "price": 0.01784
+  },
+  {
+    "code": "BI",
+    "areacode": "+257",
+    "price": 0.06129
+  },
+  {
+    "code": "BJ",
+    "areacode": "+229",
+    "price": 0.06634
+  },
+  {
+    "code": "BL",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "BM",
+    "areacode": "+1441",
+    "price": 0.06098
+  },
+  {
+    "code": "BN",
+    "areacode": "+673",
+    "price": 0.00765
+  },
+  {
+    "code": "BO",
+    "areacode": "+591",
+    "price": 0.09844
+  },
+  {
+    "code": "SA",
+    "areacode": "+966",
+    "price": 0.05776
+  },
+  {
+    "code": "BQ",
+    "areacode": null,
+    "price": 0.02967
+  },
+  {
+    "code": "SB",
+    "areacode": "+677",
+    "price": 0.01675
+  },
+  {
+    "code": "BR",
+    "areacode": "+55",
+    "price": 0.02297
+  },
+  {
+    "code": "SC",
+    "areacode": "+248",
+    "price": 0.04272
+  },
+  {
+    "code": "BS",
+    "areacode": "+1242",
+    "price": 0.07011
+  },
+  {
+    "code": "BT",
+    "areacode": "+975",
+    "price": 0.05535
+  },
+  {
+    "code": "SE",
+    "areacode": "+46",
+    "price": 0.07256
+  },
+  {
+    "code": "BV",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "SG",
+    "areacode": "+65",
+    "price": 0.05326
+  },
+  {
+    "code": "BW",
+    "areacode": "+267",
+    "price": 0.03831
+  },
+  {
+    "code": "SH",
+    "areacode": null,
+    "price": 0.29563
+  },
+  {
+    "code": "SI",
+    "areacode": "+386",
+    "price": 0.03902
+  },
+  {
+    "code": "BY",
+    "areacode": "+375",
+    "price": 0.16604
+  },
+  {
+    "code": "SJ",
+    "areacode": null,
+    "price": 0.08663
+  },
+  {
+    "code": "BZ",
+    "areacode": "+501",
+    "price": 0.0122
+  },
+  {
+    "code": "SK",
+    "areacode": "+421",
+    "price": 0.08212
+  },
+  {
+    "code": "SL",
+    "areacode": "+232",
+    "price": 0.04773
+  },
+  {
+    "code": "SM",
+    "areacode": "+378",
+    "price": 0.00975
+  },
+  {
+    "code": "SN",
+    "areacode": "+221",
+    "price": 0.08201
+  },
+  {
+    "code": "SO",
+    "areacode": "+252",
+    "price": 0.11037
+  },
+  {
+    "code": "CA",
+    "areacode": "+1",
+    "price": 0.00581
+  },
+  {
+    "code": "SR",
+    "areacode": "+597",
+    "price": 0.03203
+  },
+  {
+    "code": "CC",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "SS",
+    "areacode": "+211",
+    "price": 0.03804
+  },
+  {
+    "code": "CD",
+    "areacode": "+243",
+    "price": 0.11435
+  },
+  {
+    "code": "ST",
+    "areacode": "+239",
+    "price": 0.10269
+  },
+  {
+    "code": "CF",
+    "areacode": "+236",
+    "price": 0.006
+  },
+  {
+    "code": "SV",
+    "areacode": "+503",
+    "price": 0.06609
+  },
+  {
+    "code": "CG",
+    "areacode": "+242",
+    "price": 0.05892
+  },
+  {
+    "code": "CH",
+    "areacode": "+41",
+    "price": 0.05124
+  },
+  {
+    "code": "SX",
+    "areacode": null,
+    "price": 0.00968
+  },
+  {
+    "code": "CI",
+    "areacode": "+225",
+    "price": 0.06609
+  },
+  {
+    "code": "SZ",
+    "areacode": "+268",
+    "price": 0.03165
+  },
+  {
+    "code": "CK",
+    "areacode": "+682",
+    "price": 0.03384
+  },
+  {
+    "code": "CL",
+    "areacode": "+56",
+    "price": 0.0316
+  },
+  {
+    "code": "CM",
+    "areacode": "+237",
+    "price": 0.03614
+  },
+  {
+    "code": "CN",
+    "areacode": "+86",
+    "price": 0.0395
+  },
+  {
+    "code": "CO",
+    "areacode": "+57",
+    "price": 0.00157
+  },
+  {
+    "code": "CR",
+    "areacode": "+506",
+    "price": 0.04678
+  },
+  {
+    "code": "TC",
+    "areacode": "+1649",
+    "price": 0.04238
+  },
+  {
+    "code": "TD",
+    "areacode": "+235",
+    "price": 0.09927
+  },
+  {
+    "code": "TF",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "CV",
+    "areacode": "+238",
+    "price": 0.09463
+  },
+  {
+    "code": "TG",
+    "areacode": "+228",
+    "price": 0.03165
+  },
+  {
+    "code": "CW",
+    "areacode": null,
+    "price": 0.06889
+  },
+  {
+    "code": "TH",
+    "areacode": "+66",
+    "price": 0.01272
+  },
+  {
+    "code": "CX",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "CY",
+    "areacode": "+357",
+    "price": 0.02995
+  },
+  {
+    "code": "TJ",
+    "areacode": "+992",
+    "price": 0.12541
+  },
+  {
+    "code": "CZ",
+    "areacode": "+420",
+    "price": 0.06609
+  },
+  {
+    "code": "TK",
+    "areacode": null,
+    "price": 0.12355
+  },
+  {
+    "code": "TL",
+    "areacode": "+670",
+    "price": 0.07634
+  },
+  {
+    "code": "TM",
+    "areacode": "+993",
+    "price": 0.03304
+  },
+  {
+    "code": "TN",
+    "areacode": "+216",
+    "price": 0.11504
+  },
+  {
+    "code": "TO",
+    "areacode": "+676",
+    "price": 0.03609
+  },
+  {
+    "code": "TR",
+    "areacode": "+90",
+    "price": 0.00318
+  },
+  {
+    "code": "TT",
+    "areacode": "+1868",
+    "price": 0.05467
+  },
+  {
+    "code": "DE",
+    "areacode": "+49",
+    "price": 0.08848
+  },
+  {
+    "code": "TV",
+    "areacode": null,
+    "price": 0.01571
+  },
+  {
+    "code": "TW",
+    "areacode": "+886",
+    "price": 0.05221
+  },
+  {
+    "code": "DJ",
+    "areacode": "+253",
+    "price": 0.02817
+  },
+  {
+    "code": "TZ",
+    "areacode": "+255",
+    "price": 0.07807
+  },
+  {
+    "code": "DK",
+    "areacode": "+45",
+    "price": 0.03521
+  },
+  {
+    "code": "DM",
+    "areacode": "+1767",
+    "price": 0.06759
+  },
+  {
+    "code": "DO",
+    "areacode": "+1809",
+    "price": 0.07409
+  },
+  {
+    "code": "UA",
+    "areacode": "+380",
+    "price": 0.11696
+  },
+  {
+    "code": "UG",
+    "areacode": "+256",
+    "price": 0.1337
+  },
+  {
+    "code": "DZ",
+    "areacode": "+213",
+    "price": 0.17717
+  },
+  {
+    "code": "UM",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "EC",
+    "areacode": "+593",
+    "price": 0.10582
+  },
+  {
+    "code": "US",
+    "areacode": "+1",
+    "price": 0.00581
+  },
+  {
+    "code": "EE",
+    "areacode": "+372",
+    "price": 0.07687
+  },
+  {
+    "code": "EG",
+    "areacode": "+20",
+    "price": 0.09865
+  },
+  {
+    "code": "EH",
+    "areacode": null,
+    "price": 0.19024
+  },
+  {
+    "code": "UY",
+    "areacode": "+598",
+    "price": 0.07317
+  },
+  {
+    "code": "UZ",
+    "areacode": "+998",
+    "price": 0.12573
+  },
+  {
+    "code": "VA",
+    "areacode": null,
+    "price": 0.02
+  },
+  {
+    "code": "ER",
+    "areacode": "+291",
+    "price": 0.1073
+  },
+  {
+    "code": "VC",
+    "areacode": "+1784",
+    "price": 0.13192
+  },
+  {
+    "code": "ES",
+    "areacode": "+34",
+    "price": 0.06087
+  },
+  {
+    "code": "ET",
+    "areacode": "+251",
+    "price": 0.13204
+  },
+  {
+    "code": "VE",
+    "areacode": "+58",
+    "price": 0.05514
+  },
+  {
+    "code": "VG",
+    "areacode": "+1340",
+    "price": 0.04376
+  },
+  {
+    "code": "VI",
+    "areacode": "+1284",
+    "price": 0.02064
+  },
+  {
+    "code": "VN",
+    "areacode": "+84",
+    "price": 0.05266
+  },
+  {
+    "code": "VU",
+    "areacode": "+678",
+    "price": 0.05268
+  },
+  {
+    "code": "FI",
+    "areacode": "+358",
+    "price": 0.10009
+  },
+  {
+    "code": "FJ",
+    "areacode": "+679",
+    "price": 0.10641
+  },
+  {
+    "code": "FK",
+    "areacode": null,
+    "price": 0.01912
+  },
+  {
+    "code": "FM",
+    "areacode": "+691",
+    "price": 0.02017
+  },
+  {
+    "code": "FO",
+    "areacode": "+298",
+    "price": 0.00812
+  },
+  {
+    "code": "FR",
+    "areacode": "+33",
+    "price": 0.06933
+  },
+  {
+    "code": "WF",
+    "areacode": null,
+    "price": 0.20695
+  },
+  {
+    "code": "GA",
+    "areacode": "+241",
+    "price": 0.06731
+  },
+  {
+    "code": "GB",
+    "areacode": "+44",
+    "price": 0.03888
+  },
+  {
+    "code": "WS",
+    "areacode": "+685",
+    "price": 0.05756
+  },
+  {
+    "code": "GD",
+    "areacode": "+1473",
+    "price": 0.05508
+  },
+  {
+    "code": "GE",
+    "areacode": "+995",
+    "price": 0.15317
+  },
+  {
+    "code": "GF",
+    "areacode": "+594",
+    "price": 0.17181
+  },
+  {
+    "code": "GG",
+    "areacode": null,
+    "price": 0.04975
+  },
+  {
+    "code": "GH",
+    "areacode": "+233",
+    "price": 0.07865
+  },
+  {
+    "code": "GI",
+    "areacode": "+350",
+    "price": 0.01121
+  },
+  {
+    "code": "GL",
+    "areacode": "+299",
+    "price": 0.00815
+  },
+  {
+    "code": "GM",
+    "areacode": "+220",
+    "price": 0.01317
+  },
+  {
+    "code": "GN",
+    "areacode": "+224",
+    "price": 0.0878
+  },
+  {
+    "code": "GP",
+    "areacode": "+590",
+    "price": 0.16302
+  },
+  {
+    "code": "GQ",
+    "areacode": "+240",
+    "price": 0.00975
+  },
+  {
+    "code": "GR",
+    "areacode": "+30",
+    "price": 0.08621
+  },
+  {
+    "code": "GS",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "GT",
+    "areacode": "+502",
+    "price": 0.05992
+  },
+  {
+    "code": "GU",
+    "areacode": "+1671",
+    "price": 0.02
+  },
+  {
+    "code": "GW",
+    "areacode": "+245",
+    "price": 0.0475
+  },
+  {
+    "code": "GY",
+    "areacode": "+592",
+    "price": 0.07291
+  },
+  {
+    "code": "XK",
+    "areacode": "+383",
+    "price": 0.11404
+  },
+  {
+    "code": "HK",
+    "areacode": "+852",
+    "price": 0.07656
+  },
+  {
+    "code": "HM",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "HN",
+    "areacode": "+504",
+    "price": 0.06097
+  },
+  {
+    "code": "HR",
+    "areacode": "+385",
+    "price": 0.06273
+  },
+  {
+    "code": "HT",
+    "areacode": "+509",
+    "price": 0.07456
+  },
+  {
+    "code": "YE",
+    "areacode": "+967",
+    "price": 0.05641
+  },
+  {
+    "code": "HU",
+    "areacode": "+36",
+    "price": 0.10824
+  },
+  {
+    "code": "ID",
+    "areacode": "+62",
+    "price": 0.16073
+  },
+  {
+    "code": "YT",
+    "areacode": null,
+    "price": 0.20409
+  },
+  {
+    "code": "IE",
+    "areacode": "+353",
+    "price": 0.09556
+  },
+  {
+    "code": "IL",
+    "areacode": "+972",
+    "price": 0.08888
+  },
+  {
+    "code": "IM",
+    "areacode": null,
+    "price": 0.04977
+  },
+  {
+    "code": "IN",
+    "areacode": "+91",
+    "price": 0.00278
+  },
+  {
+    "code": "IO",
+    "areacode": null,
+    "price": 0.18699
+  },
+  {
+    "code": "ZA",
+    "areacode": "+27",
+    "price": 0.0198
+  },
+  {
+    "code": "IQ",
+    "areacode": "+964",
+    "price": 0.13353
+  },
+  {
+    "code": "IS",
+    "areacode": "+354",
+    "price": 0.08496
+  },
+  {
+    "code": "IT",
+    "areacode": "+39",
+    "price": 0.075
+  },
+  {
+    "code": "ZM",
+    "areacode": "+260",
+    "price": 0.11795
+  },
+  {
+    "code": "JE",
+    "areacode": null,
+    "price": 0.04958
+  },
+  {
+    "code": "ZW",
+    "areacode": "+263",
+    "price": 0.03725
+  },
+  {
+    "code": "JM",
+    "areacode": "+1876",
+    "price": 0.07693
+  },
+  {
+    "code": "JO",
+    "areacode": "+962",
+    "price": 0.19641
+  },
+  {
+    "code": "JP",
+    "areacode": "+81",
+    "price": 0.07451
+  },
+  {
+    "code": "KE",
+    "areacode": "+254",
+    "price": 0.05126
+  },
+  {
+    "code": "KG",
+    "areacode": "+996",
+    "price": 0.14756
+  },
+  {
+    "code": "KH",
+    "areacode": "+855",
+    "price": 0.13126
+  },
+  {
+    "code": "KI",
+    "areacode": "+686",
+    "price": 0.16031
+  },
+  {
+    "code": "KM",
+    "areacode": "+269",
+    "price": 0.03238
+  },
+  {
+    "code": "KN",
+    "areacode": "+1869",
+    "price": 0.05894
+  },
+  {
+    "code": "KR",
+    "areacode": "+82",
+    "price": 0.02414
+  },
+  {
+    "code": "KW",
+    "areacode": "+965",
+    "price": 0.12785
+  },
+  {
+    "code": "KY",
+    "areacode": "+1345",
+    "price": 0.04718
+  },
+  {
+    "code": "KZ",
+    "areacode": "+7",
+    "price": 0.18986
+  },
+  {
+    "code": "LA",
+    "areacode": "+856",
+    "price": 0.05365
+  },
+  {
+    "code": "LB",
+    "areacode": "+961",
+    "price": 0.09334
+  },
+  {
+    "code": "LC",
+    "areacode": "+1758",
+    "price": 0.04685
+  },
+  {
+    "code": "LI",
+    "areacode": "+423",
+    "price": 0.0192
+  },
+  {
+    "code": "LK",
+    "areacode": "+94",
+    "price": 0.12878
+  },
+  {
+    "code": "LR",
+    "areacode": "+231",
+    "price": 0.06362
+  },
+  {
+    "code": "LS",
+    "areacode": "+266",
+    "price": 0.02765
+  },
+  {
+    "code": "LT",
+    "areacode": "+370",
+    "price": 0.04358
+  },
+  {
+    "code": "LU",
+    "areacode": "+352",
+    "price": 0.08412
+  },
+  {
+    "code": "LV",
+    "areacode": "+371",
+    "price": 0.06848
+  },
+  {
+    "code": "LY",
+    "areacode": "+218",
+    "price": 0.1096
+  },
+  {
+    "code": "MA",
+    "areacode": "+212",
+    "price": 0.07446
+  },
+  {
+    "code": "MC",
+    "areacode": "+377",
+    "price": 0.08643
+  },
+  {
+    "code": "MD",
+    "areacode": "+373",
+    "price": 0.06226
+  },
+  {
+    "code": "ME",
+    "areacode": "+382",
+    "price": 0.03905
+  },
+  {
+    "code": "MF",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "MG",
+    "areacode": "+261",
+    "price": 0.04097
+  },
+  {
+    "code": "MH",
+    "areacode": "+692",
+    "price": 0.14304
+  },
+  {
+    "code": "MK",
+    "areacode": "+389",
+    "price": 0.0274
+  },
+  {
+    "code": "ML",
+    "areacode": "+223",
+    "price": 0.14346
+  },
+  {
+    "code": "MM",
+    "areacode": "+95",
+    "price": 0.13982
+  },
+  {
+    "code": "MN",
+    "areacode": "+976",
+    "price": 0.12765
+  },
+  {
+    "code": "MO",
+    "areacode": "+853",
+    "price": 0.05959
+  },
+  {
+    "code": "MP",
+    "areacode": "+1670",
+    "price": 0.02
+  },
+  {
+    "code": "MQ",
+    "areacode": "+596",
+    "price": 0.11541
+  },
+  {
+    "code": "MR",
+    "areacode": "+222",
+    "price": 0.16249
+  },
+  {
+    "code": "MS",
+    "areacode": "+1664",
+    "price": 0.02216
+  },
+  {
+    "code": "MT",
+    "areacode": "+356",
+    "price": 0.06255
+  },
+  {
+    "code": "MU",
+    "areacode": "+230",
+    "price": 0.07072
+  },
+  {
+    "code": "MV",
+    "areacode": "+960",
+    "price": 0.0139
+  },
+  {
+    "code": "MW",
+    "areacode": "+265",
+    "price": 0.12069
+  },
+  {
+    "code": "MX",
+    "areacode": "+52",
+    "price": 0.0126
+  },
+  {
+    "code": "MY",
+    "areacode": "+60",
+    "price": 0.05615
+  },
+  {
+    "code": "MZ",
+    "areacode": "+258",
+    "price": 0.04029
+  },
+  {
+    "code": "NA",
+    "areacode": "+264",
+    "price": 0.08284
+  },
+  {
+    "code": "NC",
+    "areacode": "+687",
+    "price": 0.15256
+  },
+  {
+    "code": "NE",
+    "areacode": "+227",
+    "price": 0.07543
+  },
+  {
+    "code": "NF",
+    "areacode": null,
+    "price": 0.06707
+  },
+  {
+    "code": "NG",
+    "areacode": "+234",
+    "price": 0.13069
+  },
+  {
+    "code": "NI",
+    "areacode": "+505",
+    "price": 0.06848
+  },
+  {
+    "code": "NL",
+    "areacode": "+31",
+    "price": 0.1189
+  },
+  {
+    "code": "NO",
+    "areacode": "+47",
+    "price": 0.08675
+  },
+  {
+    "code": "NP",
+    "areacode": "+977",
+    "price": 0.15017
+  },
+  {
+    "code": "NR",
+    "areacode": null,
+    "price": 0.18182
+  },
+  {
+    "code": "NU",
+    "areacode": null,
+    "price": 0.02439
+  },
+  {
+    "code": "NZ",
+    "areacode": "+64",
+    "price": 0.12146
+  },
+  {
+    "code": "OM",
+    "areacode": "+968",
+    "price": 0.10707
+  },
+  {
+    "code": "PA",
+    "areacode": "+507",
+    "price": 0.07581
+  },
+  {
+    "code": "PE",
+    "areacode": "+51",
+    "price": 0.02837
+  },
+  {
+    "code": "PF",
+    "areacode": "+689",
+    "price": 0.09609
+  },
+  {
+    "code": "PG",
+    "areacode": "+675",
+    "price": 0.0263
+  },
+  {
+    "code": "PH",
+    "areacode": "+63",
+    "price": 0.01625
+  },
+  {
+    "code": "PK",
+    "areacode": "+92",
+    "price": 0.07922
+  },
+  {
+    "code": "PL",
+    "areacode": "+48",
+    "price": 0.03222
+  },
+  {
+    "code": "PM",
+    "areacode": "+508",
+    "price": 0.16342
+  },
+  {
+    "code": "PN",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "PR",
+    "areacode": "+1787",
+    "price": 0.00507
+  },
+  {
+    "code": "PS",
+    "areacode": "+970",
+    "price": 0.15738
+  },
+  {
+    "code": "PT",
+    "areacode": "+351",
+    "price": 0.03031
+  },
+  {
+    "code": "PW",
+    "areacode": "+680",
+    "price": 0.01073
+  },
+  {
+    "code": "PY",
+    "areacode": "+595",
+    "price": 0.0237
+  },
+  {
+    "code": "QA",
+    "areacode": "+974",
+    "price": 0.03973
+  },
+  {
+    "code": "AC",
+    "areacode": null,
+    "price": 0.18784
+  },
+  {
+    "code": "AD",
+    "areacode": "+376",
+    "price": 0.04
+  },
+  {
+    "code": "AE",
+    "areacode": "+971",
+    "price": 0.0368
+  },
+  {
+    "code": "AF",
+    "areacode": "+93",
+    "price": 0.19658
+  },
+  {
+    "code": "AG",
+    "areacode": "+1268",
+    "price": 0.04405
+  },
+  {
+    "code": "AI",
+    "areacode": "+1264",
+    "price": 0.04391
+  },
+  {
+    "code": "AL",
+    "areacode": "+355",
+    "price": 0.09029
+  },
+  {
+    "code": "AM",
+    "areacode": "+374",
+    "price": 0.12597
+  },
+  {
+    "code": "AO",
+    "areacode": "+244",
+    "price": 0.08983
+  },
+  {
+    "code": "AQ",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "AR",
+    "areacode": "+54",
+    "price": 0.05164
+  },
+  {
+    "code": "AS",
+    "areacode": "+1684",
+    "price": 0.02096
+  },
+  {
+    "code": "AT",
+    "areacode": "+43",
+    "price": 0.10526
+  },
+  {
+    "code": "RE",
+    "areacode": "+262",
+    "price": 0.17186
+  },
+  {
+    "code": "AU",
+    "areacode": "+61",
+    "price": 0.0345
+  },
+  {
+    "code": "AW",
+    "areacode": "+297",
+    "price": 0.05365
+  },
+  {
+    "code": "AX",
+    "areacode": null,
+    "price": 0.13407
+  },
+  {
+    "code": "AZ",
+    "areacode": "+994",
+    "price": 0.27119
+  },
+  {
+    "code": "RO",
+    "areacode": "+40",
+    "price": 0.07804
+  },
+  {
+    "code": "BA",
+    "areacode": "+387",
+    "price": 0.07463
+  },
+  {
+    "code": "BB",
+    "areacode": "+1246",
+    "price": 0.07118
+  },
+  {
+    "code": "RS",
+    "areacode": "+381",
+    "price": 0.03136
+  },
+  {
+    "code": "BD",
+    "areacode": "+880",
+    "price": 0.2049
+  },
+  {
+    "code": "BE",
+    "areacode": "+32",
+    "price": 0.09582
+  },
+  {
+    "code": "RU",
+    "areacode": "+7",
+    "price": 0.05281
+  },
+  {
+    "code": "BF",
+    "areacode": "+226",
+    "price": 0.06243
+  },
+  {
+    "code": "BG",
+    "areacode": "+359",
+    "price": 0.10554
+  },
+  {
+    "code": "RW",
+    "areacode": "+250",
+    "price": 0.03473
+  },
+  {
+    "code": "BH",
+    "areacode": "+973",
+    "price": 0.01784
+  },
+  {
+    "code": "BI",
+    "areacode": "+257",
+    "price": 0.06129
+  },
+  {
+    "code": "BJ",
+    "areacode": "+229",
+    "price": 0.06634
+  },
+  {
+    "code": "BL",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "BM",
+    "areacode": "+1441",
+    "price": 0.06098
+  },
+  {
+    "code": "BN",
+    "areacode": "+673",
+    "price": 0.00765
+  },
+  {
+    "code": "BO",
+    "areacode": "+591",
+    "price": 0.09844
+  },
+  {
+    "code": "SA",
+    "areacode": "+966",
+    "price": 0.05776
+  },
+  {
+    "code": "BQ",
+    "areacode": null,
+    "price": 0.02967
+  },
+  {
+    "code": "SB",
+    "areacode": "+677",
+    "price": 0.01675
+  },
+  {
+    "code": "BR",
+    "areacode": "+55",
+    "price": 0.02297
+  },
+  {
+    "code": "SC",
+    "areacode": "+248",
+    "price": 0.04272
+  },
+  {
+    "code": "BS",
+    "areacode": "+1242",
+    "price": 0.07011
+  },
+  {
+    "code": "BT",
+    "areacode": "+975",
+    "price": 0.05535
+  },
+  {
+    "code": "SE",
+    "areacode": "+46",
+    "price": 0.07256
+  },
+  {
+    "code": "BV",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "SG",
+    "areacode": "+65",
+    "price": 0.05326
+  },
+  {
+    "code": "BW",
+    "areacode": "+267",
+    "price": 0.03831
+  },
+  {
+    "code": "SH",
+    "areacode": null,
+    "price": 0.29563
+  },
+  {
+    "code": "SI",
+    "areacode": "+386",
+    "price": 0.03902
+  },
+  {
+    "code": "BY",
+    "areacode": "+375",
+    "price": 0.16604
+  },
+  {
+    "code": "SJ",
+    "areacode": null,
+    "price": 0.08663
+  },
+  {
+    "code": "BZ",
+    "areacode": "+501",
+    "price": 0.0122
+  },
+  {
+    "code": "SK",
+    "areacode": "+421",
+    "price": 0.08212
+  },
+  {
+    "code": "SL",
+    "areacode": "+232",
+    "price": 0.04773
+  },
+  {
+    "code": "SM",
+    "areacode": "+378",
+    "price": 0.00975
+  },
+  {
+    "code": "SN",
+    "areacode": "+221",
+    "price": 0.08201
+  },
+  {
+    "code": "SO",
+    "areacode": "+252",
+    "price": 0.11037
+  },
+  {
+    "code": "CA",
+    "areacode": "+1",
+    "price": 0.00581
+  },
+  {
+    "code": "SR",
+    "areacode": "+597",
+    "price": 0.03203
+  },
+  {
+    "code": "CC",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "SS",
+    "areacode": "+211",
+    "price": 0.03804
+  },
+  {
+    "code": "CD",
+    "areacode": "+243",
+    "price": 0.11435
+  },
+  {
+    "code": "ST",
+    "areacode": "+239",
+    "price": 0.10269
+  },
+  {
+    "code": "CF",
+    "areacode": "+236",
+    "price": 0.006
+  },
+  {
+    "code": "SV",
+    "areacode": "+503",
+    "price": 0.06609
+  },
+  {
+    "code": "CG",
+    "areacode": "+242",
+    "price": 0.05892
+  },
+  {
+    "code": "CH",
+    "areacode": "+41",
+    "price": 0.05124
+  },
+  {
+    "code": "SX",
+    "areacode": null,
+    "price": 0.00968
+  },
+  {
+    "code": "CI",
+    "areacode": "+225",
+    "price": 0.06609
+  },
+  {
+    "code": "SZ",
+    "areacode": "+268",
+    "price": 0.03165
+  },
+  {
+    "code": "CK",
+    "areacode": "+682",
+    "price": 0.03384
+  },
+  {
+    "code": "CL",
+    "areacode": "+56",
+    "price": 0.0316
+  },
+  {
+    "code": "CM",
+    "areacode": "+237",
+    "price": 0.03614
+  },
+  {
+    "code": "CN",
+    "areacode": "+86",
+    "price": 0.0395
+  },
+  {
+    "code": "CO",
+    "areacode": "+57",
+    "price": 0.00157
+  },
+  {
+    "code": "CR",
+    "areacode": "+506",
+    "price": 0.04678
+  },
+  {
+    "code": "TC",
+    "areacode": "+1649",
+    "price": 0.04238
+  },
+  {
+    "code": "TD",
+    "areacode": "+235",
+    "price": 0.09927
+  },
+  {
+    "code": "TF",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "CV",
+    "areacode": "+238",
+    "price": 0.09463
+  },
+  {
+    "code": "TG",
+    "areacode": "+228",
+    "price": 0.03165
+  },
+  {
+    "code": "CW",
+    "areacode": null,
+    "price": 0.06889
+  },
+  {
+    "code": "TH",
+    "areacode": "+66",
+    "price": 0.01272
+  },
+  {
+    "code": "CX",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "CY",
+    "areacode": "+357",
+    "price": 0.02995
+  },
+  {
+    "code": "TJ",
+    "areacode": "+992",
+    "price": 0.12541
+  },
+  {
+    "code": "CZ",
+    "areacode": "+420",
+    "price": 0.06609
+  },
+  {
+    "code": "TK",
+    "areacode": null,
+    "price": 0.12355
+  },
+  {
+    "code": "TL",
+    "areacode": "+670",
+    "price": 0.07634
+  },
+  {
+    "code": "TM",
+    "areacode": "+993",
+    "price": 0.03304
+  },
+  {
+    "code": "TN",
+    "areacode": "+216",
+    "price": 0.11504
+  },
+  {
+    "code": "TO",
+    "areacode": "+676",
+    "price": 0.03609
+  },
+  {
+    "code": "TR",
+    "areacode": "+90",
+    "price": 0.00318
+  },
+  {
+    "code": "TT",
+    "areacode": "+1868",
+    "price": 0.05467
+  },
+  {
+    "code": "DE",
+    "areacode": "+49",
+    "price": 0.08848
+  },
+  {
+    "code": "TV",
+    "areacode": null,
+    "price": 0.01571
+  },
+  {
+    "code": "TW",
+    "areacode": "+886",
+    "price": 0.05221
+  },
+  {
+    "code": "DJ",
+    "areacode": "+253",
+    "price": 0.02817
+  },
+  {
+    "code": "TZ",
+    "areacode": "+255",
+    "price": 0.07807
+  },
+  {
+    "code": "DK",
+    "areacode": "+45",
+    "price": 0.03521
+  },
+  {
+    "code": "DM",
+    "areacode": "+1767",
+    "price": 0.06759
+  },
+  {
+    "code": "DO",
+    "areacode": "+1809",
+    "price": 0.07409
+  },
+  {
+    "code": "UA",
+    "areacode": "+380",
+    "price": 0.11696
+  },
+  {
+    "code": "UG",
+    "areacode": "+256",
+    "price": 0.1337
+  },
+  {
+    "code": "DZ",
+    "areacode": "+213",
+    "price": 0.17717
+  },
+  {
+    "code": "UM",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "EC",
+    "areacode": "+593",
+    "price": 0.10582
+  },
+  {
+    "code": "US",
+    "areacode": "+1",
+    "price": 0.00581
+  },
+  {
+    "code": "EE",
+    "areacode": "+372",
+    "price": 0.07687
+  },
+  {
+    "code": "EG",
+    "areacode": "+20",
+    "price": 0.09865
+  },
+  {
+    "code": "EH",
+    "areacode": null,
+    "price": 0.19024
+  },
+  {
+    "code": "UY",
+    "areacode": "+598",
+    "price": 0.07317
+  },
+  {
+    "code": "UZ",
+    "areacode": "+998",
+    "price": 0.12573
+  },
+  {
+    "code": "VA",
+    "areacode": null,
+    "price": 0.02
+  },
+  {
+    "code": "ER",
+    "areacode": "+291",
+    "price": 0.1073
+  },
+  {
+    "code": "VC",
+    "areacode": "+1784",
+    "price": 0.13192
+  },
+  {
+    "code": "ES",
+    "areacode": "+34",
+    "price": 0.06087
+  },
+  {
+    "code": "ET",
+    "areacode": "+251",
+    "price": 0.13204
+  },
+  {
+    "code": "VE",
+    "areacode": "+58",
+    "price": 0.05514
+  },
+  {
+    "code": "VG",
+    "areacode": "+1340",
+    "price": 0.04376
+  },
+  {
+    "code": "VI",
+    "areacode": "+1284",
+    "price": 0.02064
+  },
+  {
+    "code": "VN",
+    "areacode": "+84",
+    "price": 0.05266
+  },
+  {
+    "code": "VU",
+    "areacode": "+678",
+    "price": 0.05268
+  },
+  {
+    "code": "FI",
+    "areacode": "+358",
+    "price": 0.10009
+  },
+  {
+    "code": "FJ",
+    "areacode": "+679",
+    "price": 0.10641
+  },
+  {
+    "code": "FK",
+    "areacode": null,
+    "price": 0.01912
+  },
+  {
+    "code": "FM",
+    "areacode": "+691",
+    "price": 0.02017
+  },
+  {
+    "code": "FO",
+    "areacode": "+298",
+    "price": 0.00812
+  },
+  {
+    "code": "FR",
+    "areacode": "+33",
+    "price": 0.06933
+  },
+  {
+    "code": "WF",
+    "areacode": null,
+    "price": 0.20695
+  },
+  {
+    "code": "GA",
+    "areacode": "+241",
+    "price": 0.06731
+  },
+  {
+    "code": "GB",
+    "areacode": "+44",
+    "price": 0.03888
+  },
+  {
+    "code": "WS",
+    "areacode": "+685",
+    "price": 0.05756
+  },
+  {
+    "code": "GD",
+    "areacode": "+1473",
+    "price": 0.05508
+  },
+  {
+    "code": "GE",
+    "areacode": "+995",
+    "price": 0.15317
+  },
+  {
+    "code": "GF",
+    "areacode": "+594",
+    "price": 0.17181
+  },
+  {
+    "code": "GG",
+    "areacode": null,
+    "price": 0.04975
+  },
+  {
+    "code": "GH",
+    "areacode": "+233",
+    "price": 0.07865
+  },
+  {
+    "code": "GI",
+    "areacode": "+350",
+    "price": 0.01121
+  },
+  {
+    "code": "GL",
+    "areacode": "+299",
+    "price": 0.00815
+  },
+  {
+    "code": "GM",
+    "areacode": "+220",
+    "price": 0.01317
+  },
+  {
+    "code": "GN",
+    "areacode": "+224",
+    "price": 0.0878
+  },
+  {
+    "code": "GP",
+    "areacode": "+590",
+    "price": 0.16302
+  },
+  {
+    "code": "GQ",
+    "areacode": "+240",
+    "price": 0.00975
+  },
+  {
+    "code": "GR",
+    "areacode": "+30",
+    "price": 0.08621
+  },
+  {
+    "code": "GS",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "GT",
+    "areacode": "+502",
+    "price": 0.05992
+  },
+  {
+    "code": "GU",
+    "areacode": "+1671",
+    "price": 0.02
+  },
+  {
+    "code": "GW",
+    "areacode": "+245",
+    "price": 0.0475
+  },
+  {
+    "code": "GY",
+    "areacode": "+592",
+    "price": 0.07291
+  },
+  {
+    "code": "XK",
+    "areacode": "+383",
+    "price": 0.11404
+  },
+  {
+    "code": "HK",
+    "areacode": "+852",
+    "price": 0.07656
+  },
+  {
+    "code": "HM",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "HN",
+    "areacode": "+504",
+    "price": 0.06097
+  },
+  {
+    "code": "HR",
+    "areacode": "+385",
+    "price": 0.06273
+  },
+  {
+    "code": "HT",
+    "areacode": "+509",
+    "price": 0.07456
+  },
+  {
+    "code": "YE",
+    "areacode": "+967",
+    "price": 0.05641
+  },
+  {
+    "code": "HU",
+    "areacode": "+36",
+    "price": 0.10824
+  },
+  {
+    "code": "ID",
+    "areacode": "+62",
+    "price": 0.16073
+  },
+  {
+    "code": "YT",
+    "areacode": null,
+    "price": 0.20409
+  },
+  {
+    "code": "IE",
+    "areacode": "+353",
+    "price": 0.09556
+  },
+  {
+    "code": "IL",
+    "areacode": "+972",
+    "price": 0.08888
+  },
+  {
+    "code": "IM",
+    "areacode": null,
+    "price": 0.04977
+  },
+  {
+    "code": "IN",
+    "areacode": "+91",
+    "price": 0.00278
+  },
+  {
+    "code": "IO",
+    "areacode": null,
+    "price": 0.18699
+  },
+  {
+    "code": "ZA",
+    "areacode": "+27",
+    "price": 0.0198
+  },
+  {
+    "code": "IQ",
+    "areacode": "+964",
+    "price": 0.13353
+  },
+  {
+    "code": "IS",
+    "areacode": "+354",
+    "price": 0.08496
+  },
+  {
+    "code": "IT",
+    "areacode": "+39",
+    "price": 0.075
+  },
+  {
+    "code": "ZM",
+    "areacode": "+260",
+    "price": 0.11795
+  },
+  {
+    "code": "JE",
+    "areacode": null,
+    "price": 0.04958
+  },
+  {
+    "code": "ZW",
+    "areacode": "+263",
+    "price": 0.03725
+  },
+  {
+    "code": "JM",
+    "areacode": "+1876",
+    "price": 0.07693
+  },
+  {
+    "code": "JO",
+    "areacode": "+962",
+    "price": 0.19641
+  },
+  {
+    "code": "JP",
+    "areacode": "+81",
+    "price": 0.07451
+  },
+  {
+    "code": "KE",
+    "areacode": "+254",
+    "price": 0.05126
+  },
+  {
+    "code": "KG",
+    "areacode": "+996",
+    "price": 0.14756
+  },
+  {
+    "code": "KH",
+    "areacode": "+855",
+    "price": 0.13126
+  },
+  {
+    "code": "KI",
+    "areacode": "+686",
+    "price": 0.16031
+  },
+  {
+    "code": "KM",
+    "areacode": "+269",
+    "price": 0.03238
+  },
+  {
+    "code": "KN",
+    "areacode": "+1869",
+    "price": 0.05894
+  },
+  {
+    "code": "KR",
+    "areacode": "+82",
+    "price": 0.02414
+  },
+  {
+    "code": "KW",
+    "areacode": "+965",
+    "price": 0.12785
+  },
+  {
+    "code": "KY",
+    "areacode": "+1345",
+    "price": 0.04718
+  },
+  {
+    "code": "KZ",
+    "areacode": "+7",
+    "price": 0.18986
+  },
+  {
+    "code": "LA",
+    "areacode": "+856",
+    "price": 0.05365
+  },
+  {
+    "code": "LB",
+    "areacode": "+961",
+    "price": 0.09334
+  },
+  {
+    "code": "LC",
+    "areacode": "+1758",
+    "price": 0.04685
+  },
+  {
+    "code": "LI",
+    "areacode": "+423",
+    "price": 0.0192
+  },
+  {
+    "code": "LK",
+    "areacode": "+94",
+    "price": 0.12878
+  },
+  {
+    "code": "LR",
+    "areacode": "+231",
+    "price": 0.06362
+  },
+  {
+    "code": "LS",
+    "areacode": "+266",
+    "price": 0.02765
+  },
+  {
+    "code": "LT",
+    "areacode": "+370",
+    "price": 0.04358
+  },
+  {
+    "code": "LU",
+    "areacode": "+352",
+    "price": 0.08412
+  },
+  {
+    "code": "LV",
+    "areacode": "+371",
+    "price": 0.06848
+  },
+  {
+    "code": "LY",
+    "areacode": "+218",
+    "price": 0.1096
+  },
+  {
+    "code": "MA",
+    "areacode": "+212",
+    "price": 0.07446
+  },
+  {
+    "code": "MC",
+    "areacode": "+377",
+    "price": 0.08643
+  },
+  {
+    "code": "MD",
+    "areacode": "+373",
+    "price": 0.06226
+  },
+  {
+    "code": "ME",
+    "areacode": "+382",
+    "price": 0.03905
+  },
+  {
+    "code": "MF",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "MG",
+    "areacode": "+261",
+    "price": 0.04097
+  },
+  {
+    "code": "MH",
+    "areacode": "+692",
+    "price": 0.14304
+  },
+  {
+    "code": "MK",
+    "areacode": "+389",
+    "price": 0.0274
+  },
+  {
+    "code": "ML",
+    "areacode": "+223",
+    "price": 0.14346
+  },
+  {
+    "code": "MM",
+    "areacode": "+95",
+    "price": 0.13982
+  },
+  {
+    "code": "MN",
+    "areacode": "+976",
+    "price": 0.12765
+  },
+  {
+    "code": "MO",
+    "areacode": "+853",
+    "price": 0.05959
+  },
+  {
+    "code": "MP",
+    "areacode": "+1670",
+    "price": 0.02
+  },
+  {
+    "code": "MQ",
+    "areacode": "+596",
+    "price": 0.11541
+  },
+  {
+    "code": "MR",
+    "areacode": "+222",
+    "price": 0.16249
+  },
+  {
+    "code": "MS",
+    "areacode": "+1664",
+    "price": 0.02216
+  },
+  {
+    "code": "MT",
+    "areacode": "+356",
+    "price": 0.06255
+  },
+  {
+    "code": "MU",
+    "areacode": "+230",
+    "price": 0.07072
+  },
+  {
+    "code": "MV",
+    "areacode": "+960",
+    "price": 0.0139
+  },
+  {
+    "code": "MW",
+    "areacode": "+265",
+    "price": 0.12069
+  },
+  {
+    "code": "MX",
+    "areacode": "+52",
+    "price": 0.0126
+  },
+  {
+    "code": "MY",
+    "areacode": "+60",
+    "price": 0.05615
+  },
+  {
+    "code": "MZ",
+    "areacode": "+258",
+    "price": 0.04029
+  },
+  {
+    "code": "NA",
+    "areacode": "+264",
+    "price": 0.08284
+  },
+  {
+    "code": "NC",
+    "areacode": "+687",
+    "price": 0.15256
+  },
+  {
+    "code": "NE",
+    "areacode": "+227",
+    "price": 0.07543
+  },
+  {
+    "code": "NF",
+    "areacode": null,
+    "price": 0.06707
+  },
+  {
+    "code": "NG",
+    "areacode": "+234",
+    "price": 0.13069
+  },
+  {
+    "code": "NI",
+    "areacode": "+505",
+    "price": 0.06848
+  },
+  {
+    "code": "NL",
+    "areacode": "+31",
+    "price": 0.1189
+  },
+  {
+    "code": "NO",
+    "areacode": "+47",
+    "price": 0.08675
+  },
+  {
+    "code": "NP",
+    "areacode": "+977",
+    "price": 0.15017
+  },
+  {
+    "code": "NR",
+    "areacode": null,
+    "price": 0.18182
+  },
+  {
+    "code": "NU",
+    "areacode": null,
+    "price": 0.02439
+  },
+  {
+    "code": "NZ",
+    "areacode": "+64",
+    "price": 0.12146
+  },
+  {
+    "code": "OM",
+    "areacode": "+968",
+    "price": 0.10707
+  },
+  {
+    "code": "PA",
+    "areacode": "+507",
+    "price": 0.07581
+  },
+  {
+    "code": "PE",
+    "areacode": "+51",
+    "price": 0.02837
+  },
+  {
+    "code": "PF",
+    "areacode": "+689",
+    "price": 0.09609
+  },
+  {
+    "code": "PG",
+    "areacode": "+675",
+    "price": 0.0263
+  },
+  {
+    "code": "PH",
+    "areacode": "+63",
+    "price": 0.01625
+  },
+  {
+    "code": "PK",
+    "areacode": "+92",
+    "price": 0.07922
+  },
+  {
+    "code": "PL",
+    "areacode": "+48",
+    "price": 0.03222
+  },
+  {
+    "code": "PM",
+    "areacode": "+508",
+    "price": 0.16342
+  },
+  {
+    "code": "PN",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "PR",
+    "areacode": "+1787",
+    "price": 0.00507
+  },
+  {
+    "code": "PS",
+    "areacode": "+970",
+    "price": 0.15738
+  },
+  {
+    "code": "PT",
+    "areacode": "+351",
+    "price": 0.03031
+  },
+  {
+    "code": "PW",
+    "areacode": "+680",
+    "price": 0.01073
+  },
+  {
+    "code": "PY",
+    "areacode": "+595",
+    "price": 0.0237
+  },
+  {
+    "code": "QA",
+    "areacode": "+974",
+    "price": 0.03973
+  },
+  {
+    "code": "AC",
+    "areacode": null,
+    "price": 0.18784
+  },
+  {
+    "code": "AD",
+    "areacode": "+376",
+    "price": 0.04
+  },
+  {
+    "code": "AE",
+    "areacode": "+971",
+    "price": 0.0368
+  },
+  {
+    "code": "AF",
+    "areacode": "+93",
+    "price": 0.19658
+  },
+  {
+    "code": "AG",
+    "areacode": "+1268",
+    "price": 0.04405
+  },
+  {
+    "code": "AI",
+    "areacode": "+1264",
+    "price": 0.04391
+  },
+  {
+    "code": "AL",
+    "areacode": "+355",
+    "price": 0.09029
+  },
+  {
+    "code": "AM",
+    "areacode": "+374",
+    "price": 0.12597
+  },
+  {
+    "code": "AO",
+    "areacode": "+244",
+    "price": 0.08983
+  },
+  {
+    "code": "AQ",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "AR",
+    "areacode": "+54",
+    "price": 0.05164
+  },
+  {
+    "code": "AS",
+    "areacode": "+1684",
+    "price": 0.02096
+  },
+  {
+    "code": "AT",
+    "areacode": "+43",
+    "price": 0.10526
+  },
+  {
+    "code": "RE",
+    "areacode": "+262",
+    "price": 0.17186
+  },
+  {
+    "code": "AU",
+    "areacode": "+61",
+    "price": 0.0345
+  },
+  {
+    "code": "AW",
+    "areacode": "+297",
+    "price": 0.05365
+  },
+  {
+    "code": "AX",
+    "areacode": null,
+    "price": 0.13407
+  },
+  {
+    "code": "AZ",
+    "areacode": "+994",
+    "price": 0.27119
+  },
+  {
+    "code": "RO",
+    "areacode": "+40",
+    "price": 0.07804
+  },
+  {
+    "code": "BA",
+    "areacode": "+387",
+    "price": 0.07463
+  },
+  {
+    "code": "BB",
+    "areacode": "+1246",
+    "price": 0.07118
+  },
+  {
+    "code": "RS",
+    "areacode": "+381",
+    "price": 0.03136
+  },
+  {
+    "code": "BD",
+    "areacode": "+880",
+    "price": 0.2049
+  },
+  {
+    "code": "BE",
+    "areacode": "+32",
+    "price": 0.09582
+  },
+  {
+    "code": "RU",
+    "areacode": "+7",
+    "price": 0.05281
+  },
+  {
+    "code": "BF",
+    "areacode": "+226",
+    "price": 0.06243
+  },
+  {
+    "code": "BG",
+    "areacode": "+359",
+    "price": 0.10554
+  },
+  {
+    "code": "RW",
+    "areacode": "+250",
+    "price": 0.03473
+  },
+  {
+    "code": "BH",
+    "areacode": "+973",
+    "price": 0.01784
+  },
+  {
+    "code": "BI",
+    "areacode": "+257",
+    "price": 0.06129
+  },
+  {
+    "code": "BJ",
+    "areacode": "+229",
+    "price": 0.06634
+  },
+  {
+    "code": "BL",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "BM",
+    "areacode": "+1441",
+    "price": 0.06098
+  },
+  {
+    "code": "BN",
+    "areacode": "+673",
+    "price": 0.00765
+  },
+  {
+    "code": "BO",
+    "areacode": "+591",
+    "price": 0.09844
+  },
+  {
+    "code": "SA",
+    "areacode": "+966",
+    "price": 0.05776
+  },
+  {
+    "code": "BQ",
+    "areacode": null,
+    "price": 0.02967
+  },
+  {
+    "code": "SB",
+    "areacode": "+677",
+    "price": 0.01675
+  },
+  {
+    "code": "BR",
+    "areacode": "+55",
+    "price": 0.02297
+  },
+  {
+    "code": "SC",
+    "areacode": "+248",
+    "price": 0.04272
+  },
+  {
+    "code": "BS",
+    "areacode": "+1242",
+    "price": 0.07011
+  },
+  {
+    "code": "BT",
+    "areacode": "+975",
+    "price": 0.05535
+  },
+  {
+    "code": "SE",
+    "areacode": "+46",
+    "price": 0.07256
+  },
+  {
+    "code": "BV",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "SG",
+    "areacode": "+65",
+    "price": 0.05326
+  },
+  {
+    "code": "BW",
+    "areacode": "+267",
+    "price": 0.03831
+  },
+  {
+    "code": "SH",
+    "areacode": null,
+    "price": 0.29563
+  },
+  {
+    "code": "SI",
+    "areacode": "+386",
+    "price": 0.03902
+  },
+  {
+    "code": "BY",
+    "areacode": "+375",
+    "price": 0.16604
+  },
+  {
+    "code": "SJ",
+    "areacode": null,
+    "price": 0.08663
+  },
+  {
+    "code": "BZ",
+    "areacode": "+501",
+    "price": 0.0122
+  },
+  {
+    "code": "SK",
+    "areacode": "+421",
+    "price": 0.08212
+  },
+  {
+    "code": "SL",
+    "areacode": "+232",
+    "price": 0.04773
+  },
+  {
+    "code": "SM",
+    "areacode": "+378",
+    "price": 0.00975
+  },
+  {
+    "code": "SN",
+    "areacode": "+221",
+    "price": 0.08201
+  },
+  {
+    "code": "SO",
+    "areacode": "+252",
+    "price": 0.11037
+  },
+  {
+    "code": "CA",
+    "areacode": "+1",
+    "price": 0.00581
+  },
+  {
+    "code": "SR",
+    "areacode": "+597",
+    "price": 0.03203
+  },
+  {
+    "code": "CC",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "SS",
+    "areacode": "+211",
+    "price": 0.03804
+  },
+  {
+    "code": "CD",
+    "areacode": "+243",
+    "price": 0.11435
+  },
+  {
+    "code": "ST",
+    "areacode": "+239",
+    "price": 0.10269
+  },
+  {
+    "code": "CF",
+    "areacode": "+236",
+    "price": 0.006
+  },
+  {
+    "code": "SV",
+    "areacode": "+503",
+    "price": 0.06609
+  },
+  {
+    "code": "CG",
+    "areacode": "+242",
+    "price": 0.05892
+  },
+  {
+    "code": "CH",
+    "areacode": "+41",
+    "price": 0.05124
+  },
+  {
+    "code": "SX",
+    "areacode": null,
+    "price": 0.00968
+  },
+  {
+    "code": "CI",
+    "areacode": "+225",
+    "price": 0.06609
+  },
+  {
+    "code": "SZ",
+    "areacode": "+268",
+    "price": 0.03165
+  },
+  {
+    "code": "CK",
+    "areacode": "+682",
+    "price": 0.03384
+  },
+  {
+    "code": "CL",
+    "areacode": "+56",
+    "price": 0.0316
+  },
+  {
+    "code": "CM",
+    "areacode": "+237",
+    "price": 0.03614
+  },
+  {
+    "code": "CN",
+    "areacode": "+86",
+    "price": 0.0395
+  },
+  {
+    "code": "CO",
+    "areacode": "+57",
+    "price": 0.00157
+  },
+  {
+    "code": "CR",
+    "areacode": "+506",
+    "price": 0.04678
+  },
+  {
+    "code": "TC",
+    "areacode": "+1649",
+    "price": 0.04238
+  },
+  {
+    "code": "TD",
+    "areacode": "+235",
+    "price": 0.09927
+  },
+  {
+    "code": "TF",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "CV",
+    "areacode": "+238",
+    "price": 0.09463
+  },
+  {
+    "code": "TG",
+    "areacode": "+228",
+    "price": 0.03165
+  },
+  {
+    "code": "CW",
+    "areacode": null,
+    "price": 0.06889
+  },
+  {
+    "code": "TH",
+    "areacode": "+66",
+    "price": 0.01272
+  },
+  {
+    "code": "CX",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "CY",
+    "areacode": "+357",
+    "price": 0.02995
+  },
+  {
+    "code": "TJ",
+    "areacode": "+992",
+    "price": 0.12541
+  },
+  {
+    "code": "CZ",
+    "areacode": "+420",
+    "price": 0.06609
+  },
+  {
+    "code": "TK",
+    "areacode": null,
+    "price": 0.12355
+  },
+  {
+    "code": "TL",
+    "areacode": "+670",
+    "price": 0.07634
+  },
+  {
+    "code": "TM",
+    "areacode": "+993",
+    "price": 0.03304
+  },
+  {
+    "code": "TN",
+    "areacode": "+216",
+    "price": 0.11504
+  },
+  {
+    "code": "TO",
+    "areacode": "+676",
+    "price": 0.03609
+  },
+  {
+    "code": "TR",
+    "areacode": "+90",
+    "price": 0.00318
+  },
+  {
+    "code": "TT",
+    "areacode": "+1868",
+    "price": 0.05467
+  },
+  {
+    "code": "DE",
+    "areacode": "+49",
+    "price": 0.08848
+  },
+  {
+    "code": "TV",
+    "areacode": null,
+    "price": 0.01571
+  },
+  {
+    "code": "TW",
+    "areacode": "+886",
+    "price": 0.05221
+  },
+  {
+    "code": "DJ",
+    "areacode": "+253",
+    "price": 0.02817
+  },
+  {
+    "code": "TZ",
+    "areacode": "+255",
+    "price": 0.07807
+  },
+  {
+    "code": "DK",
+    "areacode": "+45",
+    "price": 0.03521
+  },
+  {
+    "code": "DM",
+    "areacode": "+1767",
+    "price": 0.06759
+  },
+  {
+    "code": "DO",
+    "areacode": "+1809",
+    "price": 0.07409
+  },
+  {
+    "code": "UA",
+    "areacode": "+380",
+    "price": 0.11696
+  },
+  {
+    "code": "UG",
+    "areacode": "+256",
+    "price": 0.1337
+  },
+  {
+    "code": "DZ",
+    "areacode": "+213",
+    "price": 0.17717
+  },
+  {
+    "code": "UM",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "EC",
+    "areacode": "+593",
+    "price": 0.10582
+  },
+  {
+    "code": "US",
+    "areacode": "+1",
+    "price": 0.00581
+  },
+  {
+    "code": "EE",
+    "areacode": "+372",
+    "price": 0.07687
+  },
+  {
+    "code": "EG",
+    "areacode": "+20",
+    "price": 0.09865
+  },
+  {
+    "code": "EH",
+    "areacode": null,
+    "price": 0.19024
+  },
+  {
+    "code": "UY",
+    "areacode": "+598",
+    "price": 0.07317
+  },
+  {
+    "code": "UZ",
+    "areacode": "+998",
+    "price": 0.12573
+  },
+  {
+    "code": "VA",
+    "areacode": null,
+    "price": 0.02
+  },
+  {
+    "code": "ER",
+    "areacode": "+291",
+    "price": 0.1073
+  },
+  {
+    "code": "VC",
+    "areacode": "+1784",
+    "price": 0.13192
+  },
+  {
+    "code": "ES",
+    "areacode": "+34",
+    "price": 0.06087
+  },
+  {
+    "code": "ET",
+    "areacode": "+251",
+    "price": 0.13204
+  },
+  {
+    "code": "VE",
+    "areacode": "+58",
+    "price": 0.05514
+  },
+  {
+    "code": "VG",
+    "areacode": "+1340",
+    "price": 0.04376
+  },
+  {
+    "code": "VI",
+    "areacode": "+1284",
+    "price": 0.02064
+  },
+  {
+    "code": "VN",
+    "areacode": "+84",
+    "price": 0.05266
+  },
+  {
+    "code": "VU",
+    "areacode": "+678",
+    "price": 0.05268
+  },
+  {
+    "code": "FI",
+    "areacode": "+358",
+    "price": 0.10009
+  },
+  {
+    "code": "FJ",
+    "areacode": "+679",
+    "price": 0.10641
+  },
+  {
+    "code": "FK",
+    "areacode": null,
+    "price": 0.01912
+  },
+  {
+    "code": "FM",
+    "areacode": "+691",
+    "price": 0.02017
+  },
+  {
+    "code": "FO",
+    "areacode": "+298",
+    "price": 0.00812
+  },
+  {
+    "code": "FR",
+    "areacode": "+33",
+    "price": 0.06933
+  },
+  {
+    "code": "WF",
+    "areacode": null,
+    "price": 0.20695
+  },
+  {
+    "code": "GA",
+    "areacode": "+241",
+    "price": 0.06731
+  },
+  {
+    "code": "GB",
+    "areacode": "+44",
+    "price": 0.03888
+  },
+  {
+    "code": "WS",
+    "areacode": "+685",
+    "price": 0.05756
+  },
+  {
+    "code": "GD",
+    "areacode": "+1473",
+    "price": 0.05508
+  },
+  {
+    "code": "GE",
+    "areacode": "+995",
+    "price": 0.15317
+  },
+  {
+    "code": "GF",
+    "areacode": "+594",
+    "price": 0.17181
+  },
+  {
+    "code": "GG",
+    "areacode": null,
+    "price": 0.04975
+  },
+  {
+    "code": "GH",
+    "areacode": "+233",
+    "price": 0.07865
+  },
+  {
+    "code": "GI",
+    "areacode": "+350",
+    "price": 0.01121
+  },
+  {
+    "code": "GL",
+    "areacode": "+299",
+    "price": 0.00815
+  },
+  {
+    "code": "GM",
+    "areacode": "+220",
+    "price": 0.01317
+  },
+  {
+    "code": "GN",
+    "areacode": "+224",
+    "price": 0.0878
+  },
+  {
+    "code": "GP",
+    "areacode": "+590",
+    "price": 0.16302
+  },
+  {
+    "code": "GQ",
+    "areacode": "+240",
+    "price": 0.00975
+  },
+  {
+    "code": "GR",
+    "areacode": "+30",
+    "price": 0.08621
+  },
+  {
+    "code": "GS",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "GT",
+    "areacode": "+502",
+    "price": 0.05992
+  },
+  {
+    "code": "GU",
+    "areacode": "+1671",
+    "price": 0.02
+  },
+  {
+    "code": "GW",
+    "areacode": "+245",
+    "price": 0.0475
+  },
+  {
+    "code": "GY",
+    "areacode": "+592",
+    "price": 0.07291
+  },
+  {
+    "code": "XK",
+    "areacode": "+383",
+    "price": 0.11404
+  },
+  {
+    "code": "HK",
+    "areacode": "+852",
+    "price": 0.07656
+  },
+  {
+    "code": "HM",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "HN",
+    "areacode": "+504",
+    "price": 0.06097
+  },
+  {
+    "code": "HR",
+    "areacode": "+385",
+    "price": 0.06273
+  },
+  {
+    "code": "HT",
+    "areacode": "+509",
+    "price": 0.07456
+  },
+  {
+    "code": "YE",
+    "areacode": "+967",
+    "price": 0.05641
+  },
+  {
+    "code": "HU",
+    "areacode": "+36",
+    "price": 0.10824
+  },
+  {
+    "code": "ID",
+    "areacode": "+62",
+    "price": 0.16073
+  },
+  {
+    "code": "YT",
+    "areacode": null,
+    "price": 0.20409
+  },
+  {
+    "code": "IE",
+    "areacode": "+353",
+    "price": 0.09556
+  },
+  {
+    "code": "IL",
+    "areacode": "+972",
+    "price": 0.08888
+  },
+  {
+    "code": "IM",
+    "areacode": null,
+    "price": 0.04977
+  },
+  {
+    "code": "IN",
+    "areacode": "+91",
+    "price": 0.00278
+  },
+  {
+    "code": "IO",
+    "areacode": null,
+    "price": 0.18699
+  },
+  {
+    "code": "ZA",
+    "areacode": "+27",
+    "price": 0.0198
+  },
+  {
+    "code": "IQ",
+    "areacode": "+964",
+    "price": 0.13353
+  },
+  {
+    "code": "IS",
+    "areacode": "+354",
+    "price": 0.08496
+  },
+  {
+    "code": "IT",
+    "areacode": "+39",
+    "price": 0.075
+  },
+  {
+    "code": "ZM",
+    "areacode": "+260",
+    "price": 0.11795
+  },
+  {
+    "code": "JE",
+    "areacode": null,
+    "price": 0.04958
+  },
+  {
+    "code": "ZW",
+    "areacode": "+263",
+    "price": 0.03725
+  },
+  {
+    "code": "JM",
+    "areacode": "+1876",
+    "price": 0.07693
+  },
+  {
+    "code": "JO",
+    "areacode": "+962",
+    "price": 0.19641
+  },
+  {
+    "code": "JP",
+    "areacode": "+81",
+    "price": 0.07451
+  },
+  {
+    "code": "KE",
+    "areacode": "+254",
+    "price": 0.05126
+  },
+  {
+    "code": "KG",
+    "areacode": "+996",
+    "price": 0.14756
+  },
+  {
+    "code": "KH",
+    "areacode": "+855",
+    "price": 0.13126
+  },
+  {
+    "code": "KI",
+    "areacode": "+686",
+    "price": 0.16031
+  },
+  {
+    "code": "KM",
+    "areacode": "+269",
+    "price": 0.03238
+  },
+  {
+    "code": "KN",
+    "areacode": "+1869",
+    "price": 0.05894
+  },
+  {
+    "code": "KR",
+    "areacode": "+82",
+    "price": 0.02414
+  },
+  {
+    "code": "KW",
+    "areacode": "+965",
+    "price": 0.12785
+  },
+  {
+    "code": "KY",
+    "areacode": "+1345",
+    "price": 0.04718
+  },
+  {
+    "code": "KZ",
+    "areacode": "+7",
+    "price": 0.18986
+  },
+  {
+    "code": "LA",
+    "areacode": "+856",
+    "price": 0.05365
+  },
+  {
+    "code": "LB",
+    "areacode": "+961",
+    "price": 0.09334
+  },
+  {
+    "code": "LC",
+    "areacode": "+1758",
+    "price": 0.04685
+  },
+  {
+    "code": "LI",
+    "areacode": "+423",
+    "price": 0.0192
+  },
+  {
+    "code": "LK",
+    "areacode": "+94",
+    "price": 0.12878
+  },
+  {
+    "code": "LR",
+    "areacode": "+231",
+    "price": 0.06362
+  },
+  {
+    "code": "LS",
+    "areacode": "+266",
+    "price": 0.02765
+  },
+  {
+    "code": "LT",
+    "areacode": "+370",
+    "price": 0.04358
+  },
+  {
+    "code": "LU",
+    "areacode": "+352",
+    "price": 0.08412
+  },
+  {
+    "code": "LV",
+    "areacode": "+371",
+    "price": 0.06848
+  },
+  {
+    "code": "LY",
+    "areacode": "+218",
+    "price": 0.1096
+  },
+  {
+    "code": "MA",
+    "areacode": "+212",
+    "price": 0.07446
+  },
+  {
+    "code": "MC",
+    "areacode": "+377",
+    "price": 0.08643
+  },
+  {
+    "code": "MD",
+    "areacode": "+373",
+    "price": 0.06226
+  },
+  {
+    "code": "ME",
+    "areacode": "+382",
+    "price": 0.03905
+  },
+  {
+    "code": "MF",
+    "areacode": null,
+    "price": 0.13659
+  },
+  {
+    "code": "MG",
+    "areacode": "+261",
+    "price": 0.04097
+  },
+  {
+    "code": "MH",
+    "areacode": "+692",
+    "price": 0.14304
+  },
+  {
+    "code": "MK",
+    "areacode": "+389",
+    "price": 0.0274
+  },
+  {
+    "code": "ML",
+    "areacode": "+223",
+    "price": 0.14346
+  },
+  {
+    "code": "MM",
+    "areacode": "+95",
+    "price": 0.13982
+  },
+  {
+    "code": "MN",
+    "areacode": "+976",
+    "price": 0.12765
+  },
+  {
+    "code": "MO",
+    "areacode": "+853",
+    "price": 0.05959
+  },
+  {
+    "code": "MP",
+    "areacode": "+1670",
+    "price": 0.02
+  },
+  {
+    "code": "MQ",
+    "areacode": "+596",
+    "price": 0.11541
+  },
+  {
+    "code": "MR",
+    "areacode": "+222",
+    "price": 0.16249
+  },
+  {
+    "code": "MS",
+    "areacode": "+1664",
+    "price": 0.02216
+  },
+  {
+    "code": "MT",
+    "areacode": "+356",
+    "price": 0.06255
+  },
+  {
+    "code": "MU",
+    "areacode": "+230",
+    "price": 0.07072
+  },
+  {
+    "code": "MV",
+    "areacode": "+960",
+    "price": 0.0139
+  },
+  {
+    "code": "MW",
+    "areacode": "+265",
+    "price": 0.12069
+  },
+  {
+    "code": "MX",
+    "areacode": "+52",
+    "price": 0.0126
+  },
+  {
+    "code": "MY",
+    "areacode": "+60",
+    "price": 0.05615
+  },
+  {
+    "code": "MZ",
+    "areacode": "+258",
+    "price": 0.04029
+  },
+  {
+    "code": "NA",
+    "areacode": "+264",
+    "price": 0.08284
+  },
+  {
+    "code": "NC",
+    "areacode": "+687",
+    "price": 0.15256
+  },
+  {
+    "code": "NE",
+    "areacode": "+227",
+    "price": 0.07543
+  },
+  {
+    "code": "NF",
+    "areacode": null,
+    "price": 0.06707
+  },
+  {
+    "code": "NG",
+    "areacode": "+234",
+    "price": 0.13069
+  },
+  {
+    "code": "NI",
+    "areacode": "+505",
+    "price": 0.06848
+  },
+  {
+    "code": "NL",
+    "areacode": "+31",
+    "price": 0.1189
+  },
+  {
+    "code": "NO",
+    "areacode": "+47",
+    "price": 0.08675
+  },
+  {
+    "code": "NP",
+    "areacode": "+977",
+    "price": 0.15017
+  },
+  {
+    "code": "NR",
+    "areacode": null,
+    "price": 0.18182
+  },
+  {
+    "code": "NU",
+    "areacode": null,
+    "price": 0.02439
+  },
+  {
+    "code": "NZ",
+    "areacode": "+64",
+    "price": 0.12146
+  },
+  {
+    "code": "OM",
+    "areacode": "+968",
+    "price": 0.10707
+  },
+  {
+    "code": "PA",
+    "areacode": "+507",
+    "price": 0.07581
+  },
+  {
+    "code": "PE",
+    "areacode": "+51",
+    "price": 0.02837
+  },
+  {
+    "code": "PF",
+    "areacode": "+689",
+    "price": 0.09609
+  },
+  {
+    "code": "PG",
+    "areacode": "+675",
+    "price": 0.0263
+  },
+  {
+    "code": "PH",
+    "areacode": "+63",
+    "price": 0.01625
+  },
+  {
+    "code": "PK",
+    "areacode": "+92",
+    "price": 0.07922
+  },
+  {
+    "code": "PL",
+    "areacode": "+48",
+    "price": 0.03222
+  },
+  {
+    "code": "PM",
+    "areacode": "+508",
+    "price": 0.16342
+  },
+  {
+    "code": "PN",
+    "areacode": null,
+    "price": 0.13659
+  }
+]

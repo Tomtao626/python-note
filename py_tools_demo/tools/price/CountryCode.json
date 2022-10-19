@@ -1,0 +1,1247 @@
+[
+  {
+    "code": "HK",
+    "enname": "Hong Kong",
+    "cnname": "香港"
+  },
+  {
+    "code": "TW",
+    "enname": "Taiwan",
+    "cnname": "台湾"
+  },
+  {
+    "code": "MO",
+    "enname": "Macao",
+    "cnname": "澳门"
+  },
+  {
+    "code": "US",
+    "enname": "United States",
+    "cnname": "美国"
+  },
+  {
+    "code": "AR",
+    "enname": "Argentina",
+    "cnname": "阿根廷"
+  },
+  {
+    "code": "AD",
+    "enname": "Andorra",
+    "cnname": "安道尔"
+  },
+  {
+    "code": "AE",
+    "enname": "United Arab Emirates",
+    "cnname": "阿联酋"
+  },
+  {
+    "code": "AF",
+    "enname": "Afghanistan",
+    "cnname": "阿富汗"
+  },
+  {
+    "code": "AG",
+    "enname": "Antigua & Barbuda",
+    "cnname": "安提瓜和巴布达"
+  },
+  {
+    "code": "AI",
+    "enname": "Anguilla",
+    "cnname": "安圭拉"
+  },
+  {
+    "code": "AL",
+    "enname": "Albania",
+    "cnname": "阿尔巴尼亚"
+  },
+  {
+    "code": "AM",
+    "enname": "Armenia",
+    "cnname": "亚美尼亚"
+  },
+  {
+    "code": "AO",
+    "enname": "Angola",
+    "cnname": "安哥拉"
+  },
+  {
+    "code": "AQ",
+    "enname": "Antarctica",
+    "cnname": "南极洲"
+  },
+  {
+    "code": "AS",
+    "enname": "American Samoa",
+    "cnname": "美属萨摩亚"
+  },
+  {
+    "code": "AT",
+    "enname": "Austria",
+    "cnname": "奥地利"
+  },
+  {
+    "code": "AU",
+    "enname": "Australia",
+    "cnname": "澳大利亚"
+  },
+  {
+    "code": "AW",
+    "enname": "Aruba",
+    "cnname": "阿鲁巴"
+  },
+  {
+    "code": "AX",
+    "enname": "Aland Island",
+    "cnname": "奥兰群岛"
+  },
+  {
+    "code": "AZ",
+    "enname": "Azerbaijan",
+    "cnname": "阿塞拜疆"
+  },
+  {
+    "code": "BA",
+    "enname": "Bosnia & Herzegovina",
+    "cnname": "波黑"
+  },
+  {
+    "code": "BB",
+    "enname": "Barbados",
+    "cnname": "巴巴多斯"
+  },
+  {
+    "code": "BD",
+    "enname": "Bangladesh",
+    "cnname": "孟加拉"
+  },
+  {
+    "code": "BE",
+    "enname": "Belgium",
+    "cnname": "比利时"
+  },
+  {
+    "code": "BF",
+    "enname": "Burkina",
+    "cnname": "布基纳法索"
+  },
+  {
+    "code": "BG",
+    "enname": "Bulgaria",
+    "cnname": "保加利亚"
+  },
+  {
+    "code": "BH",
+    "enname": "Bahrain",
+    "cnname": "巴林"
+  },
+  {
+    "code": "BI",
+    "enname": "Burundi",
+    "cnname": "布隆迪"
+  },
+  {
+    "code": "BJ",
+    "enname": "Benin",
+    "cnname": "贝宁"
+  },
+  {
+    "code": "BL",
+    "enname": "Saint Barthélemy",
+    "cnname": "圣巴泰勒米岛"
+  },
+  {
+    "code": "BM",
+    "enname": "Bermuda",
+    "cnname": "百慕大"
+  },
+  {
+    "code": "BN",
+    "enname": "Brunei",
+    "cnname": "文莱"
+  },
+  {
+    "code": "BO",
+    "enname": "Bolivia",
+    "cnname": "玻利维亚"
+  },
+  {
+    "code": "BQ",
+    "enname": "Caribbean Netherlands",
+    "cnname": "荷兰加勒比区"
+  },
+  {
+    "code": "BR",
+    "enname": "Brazil",
+    "cnname": "巴西"
+  },
+  {
+    "code": "BS",
+    "enname": "The Bahamas",
+    "cnname": "巴哈马"
+  },
+  {
+    "code": "BT",
+    "enname": "Bhutan",
+    "cnname": "不丹"
+  },
+  {
+    "code": "BV",
+    "enname": "Bouvet Island",
+    "cnname": "布韦岛"
+  },
+  {
+    "code": "BW",
+    "enname": "Botswana",
+    "cnname": "博茨瓦纳"
+  },
+  {
+    "code": "BY",
+    "enname": "Belarus",
+    "cnname": "白俄罗斯"
+  },
+  {
+    "code": "BZ",
+    "enname": "Belize",
+    "cnname": "伯利兹"
+  },
+  {
+    "code": "CA",
+    "enname": "Canada",
+    "cnname": "加拿大"
+  },
+  {
+    "code": "CC",
+    "enname": "Cocos (Keeling) Islands",
+    "cnname": "科科斯群岛"
+  },
+  {
+    "code": "CD",
+    "enname": "Democratic Republic of the Congo",
+    "cnname": "刚果（金）"
+  },
+  {
+    "code": "CF",
+    "enname": "Central African Republic",
+    "cnname": "中非"
+  },
+  {
+    "code": "CG",
+    "enname": "Republic of the Congo",
+    "cnname": "刚果（布）"
+  },
+  {
+    "code": "CH",
+    "enname": "Switzerland",
+    "cnname": "瑞士"
+  },
+  {
+    "code": "CI",
+    "enname": "Cote d'Ivoire",
+    "cnname": "科特迪瓦"
+  },
+  {
+    "code": "CK",
+    "enname": "Cook Islands",
+    "cnname": "库克群岛"
+  },
+  {
+    "code": "CL",
+    "enname": "Chile",
+    "cnname": "智利"
+  },
+  {
+    "code": "CM",
+    "enname": "Cameroon",
+    "cnname": "喀麦隆"
+  },
+  {
+    "code": "CN",
+    "enname": "China",
+    "cnname": "中国"
+  },
+  {
+    "code": "CO",
+    "enname": "Colombia",
+    "cnname": "哥伦比亚"
+  },
+  {
+    "code": "CR",
+    "enname": "Costa Rica",
+    "cnname": "哥斯达黎加"
+  },
+  {
+    "code": "CU",
+    "enname": "Cuba",
+    "cnname": "古巴"
+  },
+  {
+    "code": "CV",
+    "enname": "Cape Verde",
+    "cnname": "佛得角"
+  },
+  {
+    "code": "CW",
+    "enname": "Curacao",
+    "cnname": "库拉索"
+  },
+  {
+    "code": "CX",
+    "enname": "Christmas Island",
+    "cnname": "圣诞岛"
+  },
+  {
+    "code": "CY",
+    "enname": "Cyprus",
+    "cnname": "塞浦路斯"
+  },
+  {
+    "code": "CZ",
+    "enname": "Czech Republic",
+    "cnname": "捷克"
+  },
+  {
+    "code": "DE",
+    "enname": "Germany",
+    "cnname": "德国"
+  },
+  {
+    "code": "DJ",
+    "enname": "Djibouti",
+    "cnname": "吉布提"
+  },
+  {
+    "code": "DK",
+    "enname": "Denmark",
+    "cnname": "丹麦"
+  },
+  {
+    "code": "DM",
+    "enname": "Dominica",
+    "cnname": "多米尼克"
+  },
+  {
+    "code": "DO",
+    "enname": "Dominican Republic",
+    "cnname": "多米尼加"
+  },
+  {
+    "code": "DZ",
+    "enname": "Algeria",
+    "cnname": "阿尔及利亚"
+  },
+  {
+    "code": "EC",
+    "enname": "Ecuador",
+    "cnname": "厄瓜多尔"
+  },
+  {
+    "code": "EE",
+    "enname": "Estonia",
+    "cnname": "爱沙尼亚"
+  },
+  {
+    "code": "EG",
+    "enname": "Egypt",
+    "cnname": "埃及"
+  },
+  {
+    "code": "EH",
+    "enname": "Western Sahara",
+    "cnname": "西撒哈拉"
+  },
+  {
+    "code": "ER",
+    "enname": "Eritrea",
+    "cnname": "厄立特里亚"
+  },
+  {
+    "code": "ES",
+    "enname": "Spain",
+    "cnname": "西班牙"
+  },
+  {
+    "code": "ET",
+    "enname": "Ethiopia",
+    "cnname": "埃塞俄比亚"
+  },
+  {
+    "code": "FI",
+    "enname": "Finland",
+    "cnname": "芬兰"
+  },
+  {
+    "code": "FJ",
+    "enname": "Fiji",
+    "cnname": "斐济群岛"
+  },
+  {
+    "code": "FK",
+    "enname": "Falkland Islands",
+    "cnname": "马尔维纳斯群岛（福克兰）"
+  },
+  {
+    "code": "FM",
+    "enname": "Federated States of Micronesia",
+    "cnname": "密克罗尼西亚联邦"
+  },
+  {
+    "code": "FO",
+    "enname": "Faroe Islands",
+    "cnname": "法罗群岛"
+  },
+  {
+    "code": "FR",
+    "enname": "France",
+    "cnname": "法国 法国"
+  },
+  {
+    "code": "GA",
+    "enname": "Gabon",
+    "cnname": "加蓬"
+  },
+  {
+    "code": "GB",
+    "enname": "Great Britain (United Kingdom; England)",
+    "cnname": "英国"
+  },
+  {
+    "code": "GD",
+    "enname": "Grenada",
+    "cnname": "格林纳达"
+  },
+  {
+    "code": "GE",
+    "enname": "Georgia",
+    "cnname": "格鲁吉亚"
+  },
+  {
+    "code": "GF",
+    "enname": "French Guiana",
+    "cnname": "法属圭亚那"
+  },
+  {
+    "code": "GG",
+    "enname": "Guernsey",
+    "cnname": "根西岛"
+  },
+  {
+    "code": "GH",
+    "enname": "Ghana",
+    "cnname": "加纳"
+  },
+  {
+    "code": "GI",
+    "enname": "Gibraltar",
+    "cnname": "直布罗陀"
+  },
+  {
+    "code": "GL",
+    "enname": "Greenland",
+    "cnname": "格陵兰"
+  },
+  {
+    "code": "GM",
+    "enname": "Gambia",
+    "cnname": "冈比亚"
+  },
+  {
+    "code": "GN",
+    "enname": "Guinea",
+    "cnname": "几内亚"
+  },
+  {
+    "code": "GP",
+    "enname": "Guadeloupe",
+    "cnname": "瓜德罗普"
+  },
+  {
+    "code": "GQ",
+    "enname": "Equatorial Guinea",
+    "cnname": "赤道几内亚"
+  },
+  {
+    "code": "GR",
+    "enname": "Greece",
+    "cnname": "希腊"
+  },
+  {
+    "code": "GS",
+    "enname": "South Georgia and the South Sandwich Islands",
+    "cnname": "南乔治亚岛和南桑威奇群岛"
+  },
+  {
+    "code": "GT",
+    "enname": "Guatemala",
+    "cnname": "危地马拉"
+  },
+  {
+    "code": "GU",
+    "enname": "Guam",
+    "cnname": "关岛"
+  },
+  {
+    "code": "GW",
+    "enname": "Guinea-Bissau",
+    "cnname": "几内亚比绍"
+  },
+  {
+    "code": "GY",
+    "enname": "Guyana",
+    "cnname": "圭亚那"
+  },
+  {
+    "code": "HM",
+    "enname": "Heard Island and McDonald Islands",
+    "cnname": "赫德岛和麦克唐纳群岛"
+  },
+  {
+    "code": "HN",
+    "enname": "Honduras",
+    "cnname": "洪都拉斯"
+  },
+  {
+    "code": "HR",
+    "enname": "Croatia",
+    "cnname": "克罗地亚"
+  },
+  {
+    "code": "HT",
+    "enname": "Haiti",
+    "cnname": "海地"
+  },
+  {
+    "code": "HU",
+    "enname": "Hungary",
+    "cnname": "匈牙利"
+  },
+  {
+    "code": "ID",
+    "enname": "Indonesia",
+    "cnname": "印尼"
+  },
+  {
+    "code": "IE",
+    "enname": "Ireland",
+    "cnname": "爱尔兰"
+  },
+  {
+    "code": "IL",
+    "enname": "Israel",
+    "cnname": "以色列"
+  },
+  {
+    "code": "IM",
+    "enname": "Isle of Man",
+    "cnname": "马恩岛"
+  },
+  {
+    "code": "IN",
+    "enname": "India",
+    "cnname": "印度"
+  },
+  {
+    "code": "IO",
+    "enname": "British Indian Ocean Territory",
+    "cnname": "英属印度洋领地"
+  },
+  {
+    "code": "IQ",
+    "enname": "Iraq",
+    "cnname": "伊拉克"
+  },
+  {
+    "code": "IR",
+    "enname": "Iran",
+    "cnname": "伊朗"
+  },
+  {
+    "code": "IS",
+    "enname": "Iceland",
+    "cnname": "冰岛"
+  },
+  {
+    "code": "IT",
+    "enname": "Italy",
+    "cnname": "意大利"
+  },
+  {
+    "code": "JE",
+    "enname": "Jersey",
+    "cnname": "泽西岛"
+  },
+  {
+    "code": "JM",
+    "enname": "Jamaica",
+    "cnname": "牙买加"
+  },
+  {
+    "code": "JO",
+    "enname": "Jordan",
+    "cnname": "约旦"
+  },
+  {
+    "code": "JP",
+    "enname": "Japan",
+    "cnname": "日本"
+  },
+  {
+    "code": "KE",
+    "enname": "Kenya",
+    "cnname": "肯尼亚"
+  },
+  {
+    "code": "KG",
+    "enname": "Kyrgyzstan",
+    "cnname": "吉尔吉斯斯坦"
+  },
+  {
+    "code": "KH",
+    "enname": "Cambodia",
+    "cnname": "柬埔寨"
+  },
+  {
+    "code": "KI",
+    "enname": "Kiribati",
+    "cnname": "基里巴斯"
+  },
+  {
+    "code": "KM",
+    "enname": "The Comoros",
+    "cnname": "科摩罗"
+  },
+  {
+    "code": "KN",
+    "enname": "St. Kitts & Nevis",
+    "cnname": "圣基茨和尼维斯"
+  },
+  {
+    "code": "KP",
+    "enname": "North Korea",
+    "cnname": "朝鲜"
+  },
+  {
+    "code": "KR",
+    "enname": "South Korea",
+    "cnname": "韩国"
+  },
+  {
+    "code": "KW",
+    "enname": "Kuwait",
+    "cnname": "科威特"
+  },
+  {
+    "code": "KY",
+    "enname": "Cayman Islands",
+    "cnname": "开曼群岛"
+  },
+  {
+    "code": "KZ",
+    "enname": "Kazakhstan",
+    "cnname": "哈萨克斯坦"
+  },
+  {
+    "code": "LA",
+    "enname": "Laos",
+    "cnname": "老挝"
+  },
+  {
+    "code": "LB",
+    "enname": "Lebanon",
+    "cnname": "黎巴嫩"
+  },
+  {
+    "code": "LC",
+    "enname": "St. Lucia",
+    "cnname": "圣卢西亚"
+  },
+  {
+    "code": "LI",
+    "enname": "Liechtenstein",
+    "cnname": "列支敦士登"
+  },
+  {
+    "code": "LK",
+    "enname": "Sri Lanka",
+    "cnname": "斯里兰卡"
+  },
+  {
+    "code": "LR",
+    "enname": "Liberia",
+    "cnname": "利比里亚"
+  },
+  {
+    "code": "LS",
+    "enname": "Lesotho",
+    "cnname": "莱索托"
+  },
+  {
+    "code": "LT",
+    "enname": "Lithuania",
+    "cnname": "立陶宛"
+  },
+  {
+    "code": "LU",
+    "enname": "Luxembourg",
+    "cnname": "卢森堡"
+  },
+  {
+    "code": "LV",
+    "enname": "Latvia",
+    "cnname": "拉脱维亚"
+  },
+  {
+    "code": "LY",
+    "enname": "Libya",
+    "cnname": "利比亚"
+  },
+  {
+    "code": "MA",
+    "enname": "Morocco",
+    "cnname": "摩洛哥"
+  },
+  {
+    "code": "MC",
+    "enname": "Monaco",
+    "cnname": "摩纳哥"
+  },
+  {
+    "code": "MD",
+    "enname": "Moldova",
+    "cnname": "摩尔多瓦"
+  },
+  {
+    "code": "ME",
+    "enname": "Montenegro",
+    "cnname": "黑山"
+  },
+  {
+    "code": "MF",
+    "enname": "Saint Martin (France)",
+    "cnname": "法属圣马丁"
+  },
+  {
+    "code": "MG",
+    "enname": "Madagascar",
+    "cnname": "马达加斯加"
+  },
+  {
+    "code": "MH",
+    "enname": "Marshall islands",
+    "cnname": "马绍尔群岛"
+  },
+  {
+    "code": "MK",
+    "enname": "Republic of Macedonia (FYROM)",
+    "cnname": "马其顿"
+  },
+  {
+    "code": "ML",
+    "enname": "Mali",
+    "cnname": "马里"
+  },
+  {
+    "code": "MM",
+    "enname": "Myanmar (Burma)",
+    "cnname": "缅甸"
+  },
+  {
+    "code": "MN",
+    "enname": "Mongolia",
+    "cnname": "蒙古国"
+  },
+  {
+    "code": "MP",
+    "enname": "Northern Mariana Islands",
+    "cnname": "北马里亚纳群岛"
+  },
+  {
+    "code": "MQ",
+    "enname": "Martinique",
+    "cnname": "马提尼克"
+  },
+  {
+    "code": "MR",
+    "enname": "Mauritania",
+    "cnname": "毛里塔尼亚"
+  },
+  {
+    "code": "MS",
+    "enname": "Montserrat",
+    "cnname": "蒙塞拉特岛"
+  },
+  {
+    "code": "MT",
+    "enname": "Malta",
+    "cnname": "马耳他"
+  },
+  {
+    "code": "MU",
+    "enname": "Mauritius",
+    "cnname": "毛里求斯"
+  },
+  {
+    "code": "MV",
+    "enname": "Maldives",
+    "cnname": "马尔代夫"
+  },
+  {
+    "code": "MW",
+    "enname": "Malawi",
+    "cnname": "马拉维"
+  },
+  {
+    "code": "MX",
+    "enname": "Mexico",
+    "cnname": "墨西哥"
+  },
+  {
+    "code": "MY",
+    "enname": "Malaysia",
+    "cnname": "马来西亚"
+  },
+  {
+    "code": "MZ",
+    "enname": "Mozambique",
+    "cnname": "莫桑比克"
+  },
+  {
+    "code": "NA",
+    "enname": "Namibia",
+    "cnname": "纳米比亚"
+  },
+  {
+    "code": "NC",
+    "enname": "New Caledonia",
+    "cnname": "新喀里多尼亚"
+  },
+  {
+    "code": "NE",
+    "enname": "Niger",
+    "cnname": "尼日尔"
+  },
+  {
+    "code": "NF",
+    "enname": "Norfolk Island",
+    "cnname": "诺福克岛"
+  },
+  {
+    "code": "NG",
+    "enname": "Nigeria",
+    "cnname": "尼日利亚"
+  },
+  {
+    "code": "NI",
+    "enname": "Nicaragua",
+    "cnname": "尼加拉瓜"
+  },
+  {
+    "code": "NL",
+    "enname": "Netherlands",
+    "cnname": "荷兰"
+  },
+  {
+    "code": "NO",
+    "enname": "Norway",
+    "cnname": "挪威"
+  },
+  {
+    "code": "NP",
+    "enname": "Nepal",
+    "cnname": "尼泊尔"
+  },
+  {
+    "code": "NR",
+    "enname": "Nauru",
+    "cnname": "瑙鲁"
+  },
+  {
+    "code": "NU",
+    "enname": "Niue",
+    "cnname": "纽埃"
+  },
+  {
+    "code": "NZ",
+    "enname": "New Zealand",
+    "cnname": "新西兰"
+  },
+  {
+    "code": "OM",
+    "enname": "Oman",
+    "cnname": "阿曼"
+  },
+  {
+    "code": "PA",
+    "enname": "Panama",
+    "cnname": "巴拿马"
+  },
+  {
+    "code": "PE",
+    "enname": "Peru",
+    "cnname": "秘鲁"
+  },
+  {
+    "code": "PF",
+    "enname": "French polynesia",
+    "cnname": "法属波利尼西亚"
+  },
+  {
+    "code": "PG",
+    "enname": "Papua New Guinea",
+    "cnname": "巴布亚新几内亚"
+  },
+  {
+    "code": "PH",
+    "enname": "The Philippines",
+    "cnname": "菲律宾"
+  },
+  {
+    "code": "PK",
+    "enname": "Pakistan",
+    "cnname": "巴基斯坦"
+  },
+  {
+    "code": "PL",
+    "enname": "Poland",
+    "cnname": "波兰"
+  },
+  {
+    "code": "PM",
+    "enname": "Saint-Pierre and Miquelon",
+    "cnname": "圣皮埃尔和密克隆"
+  },
+  {
+    "code": "PN",
+    "enname": "Pitcairn Islands",
+    "cnname": "皮特凯恩群岛"
+  },
+  {
+    "code": "PR",
+    "enname": "Puerto Rico",
+    "cnname": "波多黎各"
+  },
+  {
+    "code": "PS",
+    "enname": "Palestinian territories",
+    "cnname": "巴勒斯坦"
+  },
+  {
+    "code": "PT",
+    "enname": "Portugal",
+    "cnname": "葡萄牙"
+  },
+  {
+    "code": "PW",
+    "enname": "Palau",
+    "cnname": "帕劳"
+  },
+  {
+    "code": "PY",
+    "enname": "Paraguay",
+    "cnname": "巴拉圭"
+  },
+  {
+    "code": "QA",
+    "enname": "Qatar",
+    "cnname": "卡塔尔"
+  },
+  {
+    "code": "RE",
+    "enname": "Réunion",
+    "cnname": "留尼汪"
+  },
+  {
+    "code": "RO",
+    "enname": "Romania",
+    "cnname": "罗马尼亚"
+  },
+  {
+    "code": "RS",
+    "enname": "Serbia",
+    "cnname": "塞尔维亚"
+  },
+  {
+    "code": "RU",
+    "enname": "Russian Federation",
+    "cnname": "俄罗斯"
+  },
+  {
+    "code": "RW",
+    "enname": "Rwanda",
+    "cnname": "卢旺达"
+  },
+  {
+    "code": "SA",
+    "enname": "Saudi Arabia",
+    "cnname": "沙特阿拉伯"
+  },
+  {
+    "code": "SB",
+    "enname": "Solomon Islands",
+    "cnname": "所罗门群岛"
+  },
+  {
+    "code": "SC",
+    "enname": "Seychelles",
+    "cnname": "塞舌尔"
+  },
+  {
+    "code": "SD",
+    "enname": "Sudan",
+    "cnname": "苏丹"
+  },
+  {
+    "code": "SE",
+    "enname": "Sweden",
+    "cnname": "瑞典"
+  },
+  {
+    "code": "SG",
+    "enname": "Singapore",
+    "cnname": "新加坡"
+  },
+  {
+    "code": "SH",
+    "enname": "St. Helena & Dependencies",
+    "cnname": "圣赫勒拿"
+  },
+  {
+    "code": "SI",
+    "enname": "Slovenia",
+    "cnname": "斯洛文尼亚"
+  },
+  {
+    "code": "SJ",
+    "enname": "Svalbard and Jan Mayen",
+    "cnname": "斯瓦尔巴群岛和扬马延岛"
+  },
+  {
+    "code": "SK",
+    "enname": "Slovakia",
+    "cnname": "斯洛伐克"
+  },
+  {
+    "code": "SL",
+    "enname": "Sierra Leone",
+    "cnname": "塞拉利昂"
+  },
+  {
+    "code": "SM",
+    "enname": "San Marino",
+    "cnname": "圣马力诺"
+  },
+  {
+    "code": "SN",
+    "enname": "Senegal",
+    "cnname": "塞内加尔"
+  },
+  {
+    "code": "SO",
+    "enname": "Somalia",
+    "cnname": "索马里"
+  },
+  {
+    "code": "SR",
+    "enname": "Suriname",
+    "cnname": "苏里南"
+  },
+  {
+    "code": "SS",
+    "enname": "South Sudan",
+    "cnname": "南苏丹"
+  },
+  {
+    "code": "ST",
+    "enname": "Sao Tome & Principe",
+    "cnname": "圣多美和普林西比"
+  },
+  {
+    "code": "SV",
+    "enname": "El Salvador",
+    "cnname": "萨尔瓦多"
+  },
+  {
+    "code": "SX",
+    "enname": "Sint Maarten",
+    "cnname": "荷属圣马丁"
+  },
+  {
+    "code": "SY",
+    "enname": "Syria",
+    "cnname": "叙利亚"
+  },
+  {
+    "code": "SZ",
+    "enname": "Swaziland",
+    "cnname": "斯威士兰"
+  },
+  {
+    "code": "TC",
+    "enname": "Turks & Caicos Islands",
+    "cnname": "特克斯和凯科斯群岛"
+  },
+  {
+    "code": "TD",
+    "enname": "Chad",
+    "cnname": "乍得"
+  },
+  {
+    "code": "TF",
+    "enname": "French Southern Territories",
+    "cnname": "法属南部领地"
+  },
+  {
+    "code": "TG",
+    "enname": "Togo",
+    "cnname": "多哥"
+  },
+  {
+    "code": "TH",
+    "enname": "Thailand",
+    "cnname": "泰国"
+  },
+  {
+    "code": "TJ",
+    "enname": "Tajikistan",
+    "cnname": "塔吉克斯坦"
+  },
+  {
+    "code": "TK",
+    "enname": "Tokelau",
+    "cnname": "托克劳"
+  },
+  {
+    "code": "TL",
+    "enname": "Timor-Leste (East Timor)",
+    "cnname": "东帝汶"
+  },
+  {
+    "code": "TM",
+    "enname": "Turkmenistan",
+    "cnname": "土库曼斯坦"
+  },
+  {
+    "code": "TN",
+    "enname": "Tunisia",
+    "cnname": "突尼斯"
+  },
+  {
+    "code": "TO",
+    "enname": "Tonga",
+    "cnname": "汤加"
+  },
+  {
+    "code": "TR",
+    "enname": "Turkey",
+    "cnname": "土耳其"
+  },
+  {
+    "code": "TT",
+    "enname": "Trinidad & Tobago",
+    "cnname": "特立尼达和多巴哥"
+  },
+  {
+    "code": "TV",
+    "enname": "Tuvalu",
+    "cnname": "图瓦卢"
+  },
+  {
+    "code": "TZ",
+    "enname": "Tanzania",
+    "cnname": "坦桑尼亚"
+  },
+  {
+    "code": "UA",
+    "enname": "Ukraine",
+    "cnname": "乌克兰"
+  },
+  {
+    "code": "UG",
+    "enname": "Uganda",
+    "cnname": "乌干达"
+  },
+  {
+    "code": "UM",
+    "enname": "United States Minor Outlying Islands",
+    "cnname": "美国本土外小岛屿"
+  },
+  {
+    "code": "UY",
+    "enname": "Uruguay",
+    "cnname": "乌拉圭"
+  },
+  {
+    "code": "UZ",
+    "enname": "Uzbekistan",
+    "cnname": "乌兹别克斯坦"
+  },
+  {
+    "code": "VA",
+    "enname": "Vatican City (The Holy See)",
+    "cnname": "梵蒂冈"
+  },
+  {
+    "code": "VC",
+    "enname": "St. Vincent & the Grenadines",
+    "cnname": "圣文森特和格林纳丁斯"
+  },
+  {
+    "code": "VE",
+    "enname": "Venezuela",
+    "cnname": "委内瑞拉"
+  },
+  {
+    "code": "VG",
+    "enname": "British Virgin Islands",
+    "cnname": "英属维尔京群岛"
+  },
+  {
+    "code": "VI",
+    "enname": "United States Virgin Islands",
+    "cnname": "美属维尔京群岛"
+  },
+  {
+    "code": "VN",
+    "enname": "Vietnam",
+    "cnname": "越南"
+  },
+  {
+    "code": "VU",
+    "enname": "Vanuatu",
+    "cnname": "瓦努阿图"
+  },
+  {
+    "code": "WF",
+    "enname": "Wallis and Futuna",
+    "cnname": "瓦利斯和富图纳"
+  },
+  {
+    "code": "WS",
+    "enname": "Samoa",
+    "cnname": "萨摩亚"
+  },
+  {
+    "code": "YE",
+    "enname": "Yemen",
+    "cnname": "也门"
+  },
+  {
+    "code": "YT",
+    "enname": "Mayotte",
+    "cnname": "马约特"
+  },
+  {
+    "code": "ZA",
+    "enname": "South Africa",
+    "cnname": "南非"
+  },
+  {
+    "code": "ZM",
+    "enname": "Zambia",
+    "cnname": "赞比亚"
+  },
+  {
+    "code": "ZW",
+    "enname": "Zimbabwe",
+    "cnname": "津巴布韦"
+  }
+]

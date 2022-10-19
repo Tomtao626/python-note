@@ -1,0 +1,12 @@
+title = "amazon auth conf"
+[conf]
+    [conf.mysql.devt]
+        host = "localhost"
+        port = 3306
+        user = "root"
+        password = "1qazxsw2"
+    [conf.redis]
+        host = "localhost"
+        port = 6379
+        db = 2
+        retry = 3

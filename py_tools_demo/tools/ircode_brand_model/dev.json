@@ -1,0 +1,39 @@
+{
+  "type": "1",
+  "userid": "12345",
+
+  "devtypeid":"1",
+  "devtype": "电视",
+  "brand": "格力",
+  "brandid": "12345",
+  "origin": "test",
+  "old_ircodeid": "1",
+  "devmodel": "CEDF",
+  "remote_model": "CEDF",
+
+  "aircode_csv": "aircode.csv",
+
+  "redcode_json": "redcode.json",
+
+  "fix_redcode_json": "fix_redcode.json",
+
+  "channelgroup_id": "123",
+  "channel_num": "22",
+  "channel_id": "4396",
+  "channel_name": "浙江卫视",
+  "logopicture": "logo.png",
+
+  "country": "中国",
+  "countrycode": "1"
+
+  "province": "浙江",
+  "provincecode": "1",
+  "city": "杭州",
+  "citycode": "城市码",
+  "operator": "移动IPTV",
+  "operator_id": "1",
+  "operator_type": "cable",
+  "channel1_csv": "channel1.csv",
+  "channel2_csv": "channel2.csv",
+  "logos_zip": "logos.zip"
+}

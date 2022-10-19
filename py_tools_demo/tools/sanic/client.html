@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+</head>
+<body bgcolor="white">
+    <div class="testBox"  style="width:700px;margin:20px auto;text-align: center;">
+        <p style="font-size:24px">模型训练进度</p>
+        <p><input type="button" name="back" value="开始" onclick="start();" style="background-color:#277ae2;color: #ffffff;margin-right: 8px;line-height: 25px;font-size: 12px;font-family: 微软雅黑,Arial, Helvetica, sans-serif;"/>
+        <input type="button" name="back1" value="停止" onclick="end();" style="background-color:#277ae2;color: #ffffff;margin-right: 8px;line-height: 25px;font-size: 12px;font-family: 微软雅黑,Arial, Helvetica, sans-serif;"/> </p>
+        <div id="area" ><textarea name="memo" id="011" cols="125" rows="45"></textarea></div>
+   </div>
+    <script>
+        var sstr="";
+        var bb=true;
+        function start()
+        {
+            var ws = new WebSocket("ws://localhost:8009/my_socket")
+            //ws.send("xiaomingming");
+            ws.onmessage = function (event) {
+                console.log(event.data)
+                sstr=sstr+event.data+"\n";
+                $("#011").text(sstr);
+                if(bb==true)
+                    ws.send("xiaomingming");
+            };
+        }
+        function end()
+        {
+            bb=false;
+        }
+    </script>
+    </body>
+</html>

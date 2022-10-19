@@ -1,0 +1,1634 @@
+{
+  "+58": {
+    "price_info": {
+      "aws": 0.353,
+      "tw": 0.3073,
+      "tencent": 0.139
+    },
+    "price_min": "tencent"
+  },
+  "+257": {
+    "price_info": {
+      "aws": 0.2146,
+      "tw": 0.5185,
+      "tencent": 0.262
+    },
+    "price_min": "aws"
+  },
+  "+236": {
+    "price_info": {
+      "aws": 0.0384,
+      "tw": 0.1216,
+      "tencent": 0.434
+    },
+    "price_min": "aws"
+  },
+  "+34": {
+    "price_info": {
+      "aws": 0.3897,
+      "tw": 0.5332,
+      "tencent": 0.677
+    },
+    "price_min": "aws"
+  },
+  "+594": {
+    "price_info": {
+      "aws": 1.0998,
+      "tw": 0.9429,
+      "tencent": 1.038
+    },
+    "price_min": "tw"
+  },
+  "+965": {
+    "price_info": {
+      "aws": 0.8184,
+      "tw": 0.5089,
+      "tencent": 0.355
+    },
+    "price_min": "tencent"
+  },
+  "+51": {
+    "price_info": {
+      "aws": 0.1816,
+      "tw": 0.2817,
+      "tencent": 0.301
+    },
+    "price_min": "aws"
+  },
+  "+46": {
+    "price_info": {
+      "aws": 0.4645,
+      "tw": 0.3521,
+      "tencent": 0.73
+    },
+    "price_min": "tw"
+  },
+  "+263": {
+    "price_info": {
+      "aws": 0.167,
+      "tw": 0.1248,
+      "tencent": 0.173
+    },
+    "price_min": "tw"
+  },
+  "+90": {
+    "price_info": {
+      "aws": 0.0204,
+      "tw": 0.1856,
+      "tencent": 0.062
+    },
+    "price_min": "aws"
+  },
+  "+387": {
+    "price_info": {
+      "aws": 0.4777,
+      "tw": 0.5121,
+      "tencent": 0.529
+    },
+    "price_min": "aws"
+  },
+  "+591": {
+    "price_info": {
+      "aws": 0.4659,
+      "tw": 0.3783,
+      "tencent": 0.445
+    },
+    "price_min": "tw"
+  },
+  "+41": {
+    "price_info": {
+      "aws": 0.328,
+      "tw": 0.4417,
+      "tencent": 0.488
+    },
+    "price_min": "aws"
+  },
+  "+370": {
+    "price_info": {
+      "aws": 0.279,
+      "tw": 0.064,
+      "tencent": 0.287
+    },
+    "price_min": "tw"
+  },
+  "+65": {
+    "price_info": {
+      "aws": 0.3409,
+      "tw": 0.2529,
+      "tencent": 0.26
+    },
+    "price_min": "tw"
+  },
+  "+228": {
+    "price_info": {
+      "aws": 0.1549,
+      "tw": 0.3521,
+      "tencent": 0.238
+    },
+    "price_min": "aws"
+  },
+  "+993": {
+    "price_info": {
+      "aws": 0.2115,
+      "tw": 0.669,
+      "tencent": 0.397
+    },
+    "price_min": "aws"
+  },
+  "+852": {
+    "price_info": {
+      "aws": 0.4901,
+      "tw": 0.3489,
+      "tencent": 0.307
+    },
+    "price_min": "tencent"
+  },
+  "+371": {
+    "price_info": {
+      "aws": 0.4384,
+      "tw": 0.4161,
+      "tencent": 0.477
+    },
+    "price_min": "tw"
+  },
+  "+1787": {
+    "price_info": {
+      "aws": 0.0325,
+      "tw": 0.2561,
+      "tencent": 0.386
+    },
+    "price_min": "aws"
+  },
+  "+43": {
+    "price_info": {
+      "aws": 0.6738,
+      "tw": 0.5966,
+      "tencent": 0.882
+    },
+    "price_min": "tw"
+  },
+  "+297": {
+    "price_info": {
+      "aws": 0.3434,
+      "tw": 0.3809,
+      "tencent": 0.379
+    },
+    "price_min": "aws"
+  },
+  "+501": {
+    "price_info": {
+      "aws": 0.0414,
+      "tw": 0.1888,
+      "tencent": 0.226
+    },
+    "price_min": "aws"
+  },
+  "+352": {
+    "price_info": {
+      "aws": 0.5385,
+      "tw": 0.3713,
+      "tencent": 0.108
+    },
+    "price_min": "tencent"
+  },
+  "+503": {
+    "price_info": {
+      "aws": 0.4231,
+      "tw": 0.2772,
+      "tencent": 0.393
+    },
+    "price_min": "tw"
+  },
+  "+235": {
+    "price_info": {
+      "aws": 0.4217,
+      "tw": 0.5121,
+      "tencent": 0.259
+    },
+    "price_min": "tencent"
+  },
+  "+1784": {
+    "price_info": {
+      "aws": 0.1769,
+      "tw": 0.3521,
+      "tencent": 0.424
+    },
+    "price_min": "aws"
+  },
+  "+1684": {
+    "price_info": {
+      "aws": 0.1342,
+      "tw": 0.7682,
+      "tencent": 0.754
+    },
+    "price_min": "aws"
+  },
+  "+243": {
+    "price_info": {
+      "aws": 0.732,
+      "tw": 0.3169,
+      "tencent": 0.351
+    },
+    "price_min": "tw"
+  },
+  "+592": {
+    "price_info": {
+      "aws": 0.2774,
+      "tw": 0.3009,
+      "tencent": 0.497
+    },
+    "price_min": "aws"
+  },
+  "+351": {
+    "price_info": {
+      "aws": 0.194,
+      "tw": 0.2881,
+      "tencent": 0.358
+    },
+    "price_min": "aws"
+  },
+  "+40": {
+    "price_info": {
+      "aws": 0.4996,
+      "tw": 0.4353,
+      "tencent": 0.51
+    },
+    "price_min": "tw"
+  },
+  "+421": {
+    "price_info": {
+      "aws": 0.5257,
+      "tw": 0.4161,
+      "tencent": 0.684
+    },
+    "price_min": "tw"
+  },
+  "+673": {
+    "price_info": {
+      "aws": 0.049,
+      "tw": 0.1216,
+      "tencent": 0.119
+    },
+    "price_min": "aws"
+  },
+  "+354": {
+    "price_info": {
+      "aws": 0.1243,
+      "tw": 0.3521,
+      "tencent": 0.228
+    },
+    "price_min": "aws"
+  },
+  "+1876": {
+    "price_info": {
+      "aws": 0.4925,
+      "tw": 0.3271,
+      "tencent": 0.256
+    },
+    "price_min": "tencent"
+  },
+  "+1664": {
+    "price_info": {
+      "aws": 0.064,
+      "tw": 0.3073,
+      "tencent": 0.469
+    },
+    "price_min": "aws"
+  },
+  "+31": {
+    "price_info": {
+      "aws": 0.7611,
+      "tw": 0.5889,
+      "tencent": 1.071
+    },
+    "price_min": "tw"
+  },
+  "+508": {
+    "price_info": {
+      "aws": 0.5611,
+      "tw": 0.7682,
+      "tencent": 0.397
+    },
+    "price_min": "tencent"
+  },
+  "+355": {
+    "price_info": {
+      "aws": 0.578,
+      "tw": 0.555,
+      "tencent": 0.65
+    },
+    "price_min": "tw"
+  },
+  "+350": {
+    "price_info": {
+      "aws": 0.0718,
+      "tw": 0.192,
+      "tencent": 0.138
+    },
+    "price_min": "aws"
+  },
+  "+1758": {
+    "price_info": {
+      "aws": 0.1465,
+      "tw": 0.3265,
+      "tencent": 0.284
+    },
+    "price_min": "aws"
+  },
+  "+382": {
+    "price_info": {
+      "aws": 0.1364,
+      "tw": 0.2753,
+      "tencent": 0.245
+    },
+    "price_min": "aws"
+  },
+  "+960": {
+    "price_info": {
+      "aws": 0.089,
+      "tw": 0.1248,
+      "tencent": 0.233
+    },
+    "price_min": "aws"
+  },
+  "+227": {
+    "price_info": {
+      "aws": 0.4829,
+      "tw": 0.4129,
+      "tencent": 0.527
+    },
+    "price_min": "tw"
+  },
+  "+972": {
+    "price_info": {
+      "aws": 0.569,
+      "tw": 0.3809,
+      "tencent": 0.119
+    },
+    "price_min": "tencent"
+  },
+  "+221": {
+    "price_info": {
+      "aws": 0.525,
+      "tw": 0.701,
+      "tencent": 0.493
+    },
+    "price_min": "tencent"
+  },
+  "+61": {
+    "price_info": {
+      "aws": 0.2209,
+      "tw": 0.3137,
+      "tencent": 0.551
+    },
+    "price_min": "aws"
+  },
+  "+593": {
+    "price_info": {
+      "aws": 0.6774,
+      "tw": 0.4481,
+      "tencent": 0.732
+    },
+    "price_min": "tw"
+  },
+  "+1671": {
+    "price_info": {
+      "aws": 0.128,
+      "tw": 0.3265,
+      "tencent": 0.386
+    },
+    "price_min": "aws"
+  },
+  "+962": {
+    "price_info": {
+      "aws": 1.2573,
+      "tw": 0.5761,
+      "tencent": 0.48
+    },
+    "price_min": "tencent"
+  },
+  "+52": {
+    "price_info": {
+      "aws": 0.0807,
+      "tw": 0.3137,
+      "tencent": 0.227
+    },
+    "price_min": "aws"
+  },
+  "+242": {
+    "price_info": {
+      "aws": 0.3772,
+      "tw": 0.2221,
+      "tencent": 0.455
+    },
+    "price_min": "tw"
+  },
+  "+233": {
+    "price_info": {
+      "aws": 0.2804,
+      "tw": 0.3489,
+      "tencent": 0.167
+    },
+    "price_min": "tencent"
+  },
+  "+240": {
+    "price_info": {
+      "aws": 0.0624,
+      "tw": 0.128,
+      "tencent": 0.591
+    },
+    "price_min": "aws"
+  },
+  "+7": {
+    "price_info": {
+      "aws": 0.3381,
+      "tw": 0.3169,
+      "tencent": 0.399
+    },
+    "price_min": "tw"
+  },
+  "+386": {
+    "price_info": {
+      "aws": 0.2498,
+      "tw": 0.3009,
+      "tencent": 0.262
+    },
+    "price_min": "aws"
+  },
+  "+260": {
+    "price_info": {
+      "aws": 0.7551,
+      "tw": 0.3521,
+      "tencent": 0.289
+    },
+    "price_min": "tencent"
+  },
+  "+1264": {
+    "price_info": {
+      "aws": 0.2811,
+      "tw": 0.3073,
+      "tencent": 0.311
+    },
+    "price_min": "aws"
+  },
+  "+57": {
+    "price_info": {
+      "aws": 0.0101,
+      "tw": 0.3201,
+      "tencent": 0.284
+    },
+    "price_min": "aws"
+  },
+  "+358": {
+    "price_info": {
+      "aws": 0.6407,
+      "tw": 0.5249,
+      "tencent": 0.952
+    },
+    "price_min": "tw"
+  },
+  "+30": {
+    "price_info": {
+      "aws": 0.5519,
+      "tw": 0.3777,
+      "tencent": 0.694
+    },
+    "price_min": "tw"
+  },
+  "+245": {
+    "price_info": {
+      "aws": 0.2182,
+      "tw": 0.9602,
+      "tencent": 0.67
+    },
+    "price_min": "aws"
+  },
+  "+356": {
+    "price_info": {
+      "aws": 0.1976,
+      "tw": 0.3169,
+      "tencent": 0.216
+    },
+    "price_min": "aws"
+  },
+  "+258": {
+    "price_info": {
+      "aws": 0.2579,
+      "tw": 0.2401,
+      "tencent": 0.216
+    },
+    "price_min": "tencent"
+  },
+  "+64": {
+    "price_info": {
+      "aws": 0.7775,
+      "tw": 0.6402,
+      "tencent": 0.796
+    },
+    "price_min": "tw"
+  },
+  "+232": {
+    "price_info": {
+      "aws": 0.3055,
+      "tw": 0.192,
+      "tencent": 0.209
+    },
+    "price_min": "tw"
+  },
+  "+880": {
+    "price_info": {
+      "aws": 1.3117,
+      "tw": 0.6369,
+      "tencent": 0.58
+    },
+    "price_min": "tencent"
+  },
+  "+45": {
+    "price_info": {
+      "aws": 0.2254,
+      "tw": 0.176,
+      "tencent": 0.364
+    },
+    "price_min": "tw"
+  },
+  "+385": {
+    "price_info": {
+      "aws": 0.4016,
+      "tw": 0.3162,
+      "tencent": 0.549
+    },
+    "price_min": "tw"
+  },
+  "+231": {
+    "price_info": {
+      "aws": 0.2972,
+      "tw": 0.4481,
+      "tencent": 0.486
+    },
+    "price_min": "aws"
+  },
+  "+853": {
+    "price_info": {
+      "aws": 0.2337,
+      "tw": 0.1792,
+      "tencent": 0.183
+    },
+    "price_min": "tw"
+  },
+  "+268": {
+    "price_info": {
+      "aws": 0.1502,
+      "tw": 0.4033,
+      "tencent": 0.512
+    },
+    "price_min": "aws"
+  },
+  "+93": {
+    "price_info": {
+      "aws": 1.2584,
+      "tw": 0.6369,
+      "tencent": 0.501
+    },
+    "price_min": "tencent"
+  },
+  "+238": {
+    "price_info": {
+      "aws": 0.6058,
+      "tw": 0.4718,
+      "tencent": 0.595
+    },
+    "price_min": "tw"
+  },
+  "+373": {
+    "price_info": {
+      "aws": 0.3986,
+      "tw": 0.3841,
+      "tencent": 0.653
+    },
+    "price_min": "tw"
+  },
+  "+687": {
+    "price_info": {
+      "aws": 0.9766,
+      "tw": 0.8962,
+      "tencent": 1.614
+    },
+    "price_min": "tw"
+  },
+  "+381": {
+    "price_info": {
+      "aws": 0.2008,
+      "tw": 0.2529,
+      "tencent": 0.323
+    },
+    "price_min": "aws"
+  },
+  "+255": {
+    "price_info": {
+      "aws": 0.4998,
+      "tw": 0.5089,
+      "tencent": 0.289
+    },
+    "price_min": "tencent"
+  },
+  "+678": {
+    "price_info": {
+      "aws": 0.3372,
+      "tw": 0.3188,
+      "tencent": 0.419
+    },
+    "price_min": "tw"
+  },
+  "+33": {
+    "price_info": {
+      "aws": 0.4438,
+      "tw": 0.4865,
+      "tencent": 0.533
+    },
+    "price_min": "aws"
+  },
+  "+1473": {
+    "price_info": {
+      "aws": 0.0554,
+      "tw": 0.3521,
+      "tencent": 0.335
+    },
+    "price_min": "aws"
+  },
+  "+677": {
+    "price_info": {
+      "aws": 0.1072,
+      "tw": 0.5057,
+      "tencent": 0.208
+    },
+    "price_min": "aws"
+  },
+  "+679": {
+    "price_info": {
+      "aws": 0.2666,
+      "tw": 0.3137,
+      "tencent": 0.251
+    },
+    "price_min": "tencent"
+  },
+  "+224": {
+    "price_info": {
+      "aws": 0.5621,
+      "tw": 0.3201,
+      "tencent": 0.606
+    },
+    "price_min": "tw"
+  },
+  "+590": {
+    "price_info": {
+      "aws": 1.0436,
+      "tw": 0.5889,
+      "tencent": 1.899
+    },
+    "price_min": "tw"
+  },
+  "+91": {
+    "price_info": {
+      "aws": 0.0178,
+      "tw": 0.112,
+      "tencent": 0.058
+    },
+    "price_min": "aws"
+  },
+  "+254": {
+    "price_info": {
+      "aws": 0.3281,
+      "tw": 0.4129,
+      "tencent": 0.205
+    },
+    "price_min": "tencent"
+  },
+  "+265": {
+    "price_info": {
+      "aws": 0.7726,
+      "tw": 0.4769,
+      "tencent": 0.333
+    },
+    "price_min": "tencent"
+  },
+  "+262": {
+    "price_info": {
+      "aws": 1.1002,
+      "tw": 0.8597,
+      "tencent": 1.444
+    },
+    "price_min": "tw"
+  },
+  "+1868": {
+    "price_info": {
+      "aws": 0.2516,
+      "tw": 0.3041,
+      "tencent": 0.263
+    },
+    "price_min": "aws"
+  },
+  "+32": {
+    "price_info": {
+      "aws": 0.6134,
+      "tw": 0.6402,
+      "tencent": 0.565
+    },
+    "price_min": "tencent"
+  },
+  "+1": {
+    "price_info": {
+      "aws": 0.0413,
+      "tw": 0.048,
+      "tencent": 0.043
+    },
+    "price_min": "aws"
+  },
+  "+213": {
+    "price_info": {
+      "aws": 1.1342,
+      "tw": 0.6369,
+      "tencent": 1.134
+    },
+    "price_min": "tw"
+  },
+  "+372": {
+    "price_info": {
+      "aws": 0.4921,
+      "tw": 0.5409,
+      "tencent": 0.782
+    },
+    "price_min": "aws"
+  },
+  "+502": {
+    "price_info": {
+      "aws": 0.3836,
+      "tw": 0.3809,
+      "tencent": 0.38
+    },
+    "price_min": "tencent"
+  },
+  "+686": {
+    "price_info": {
+      "aws": 0.0766,
+      "tw": 0.5121,
+      "tencent": 0.349
+    },
+    "price_min": "aws"
+  },
+  "+967": {
+    "price_info": {
+      "aws": 0.3611,
+      "tw": 0.5761,
+      "tencent": 0.195
+    },
+    "price_min": "tencent"
+  },
+  "+1809": {
+    "price_info": {
+      "aws": 0.3525,
+      "tw": 0.3649,
+      "tencent": 0.356
+    },
+    "price_min": "aws"
+  },
+  "+248": {
+    "price_info": {
+      "aws": 0.2735,
+      "tw": 0.208,
+      "tencent": 0.441
+    },
+    "price_min": "tw"
+  },
+  "+359": {
+    "price_info": {
+      "aws": 0.6756,
+      "tw": 0.5121,
+      "tencent": 0.505
+    },
+    "price_min": "tencent"
+  },
+  "+212": {
+    "price_info": {
+      "aws": 0.4767,
+      "tw": 0.4609,
+      "tencent": 0.57
+    },
+    "price_min": "tw"
+  },
+  "+261": {
+    "price_info": {
+      "aws": 0.2623,
+      "tw": 0.4449,
+      "tencent": 0.386
+    },
+    "price_min": "aws"
+  },
+  "+223": {
+    "price_info": {
+      "aws": 0.5361,
+      "tw": 0.6402,
+      "tencent": 1.32
+    },
+    "price_min": "aws"
+  },
+  "+966": {
+    "price_info": {
+      "aws": 0.3698,
+      "tw": 0.1984,
+      "tencent": 0.245
+    },
+    "price_min": "tw"
+  },
+  "+1649": {
+    "price_info": {
+      "aws": 0.2713,
+      "tw": 0.2817,
+      "tencent": 0.282
+    },
+    "price_min": "aws"
+  },
+  "+685": {
+    "price_info": {
+      "aws": 0.3685,
+      "tw": 0.3188,
+      "tencent": 0.53
+    },
+    "price_min": "tw"
+  },
+  "+374": {
+    "price_info": {
+      "aws": 0.8064,
+      "tw": 0.507,
+      "tencent": 0.557
+    },
+    "price_min": "tw"
+  },
+  "+375": {
+    "price_info": {
+      "aws": 1.0629,
+      "tw": 0.829,
+      "tencent": 0.437
+    },
+    "price_min": "tencent"
+  },
+  "+36": {
+    "price_info": {
+      "aws": 0.6929,
+      "tw": 0.4481,
+      "tencent": 0.82
+    },
+    "price_min": "tw"
+  },
+  "+47": {
+    "price_info": {
+      "aws": 0.5553,
+      "tw": 0.3969,
+      "tencent": 0.645
+    },
+    "price_min": "tw"
+  },
+  "+968": {
+    "price_info": {
+      "aws": 0.6854,
+      "tw": 0.4129,
+      "tencent": 0.514
+    },
+    "price_min": "tw"
+  },
+  "+507": {
+    "price_info": {
+      "aws": 0.4853,
+      "tw": 0.3777,
+      "tencent": 0.495
+    },
+    "price_min": "tw"
+  },
+  "+886": {
+    "price_info": {
+      "aws": 0.3342,
+      "tw": 0.3457,
+      "tencent": 0.37
+    },
+    "price_min": "aws"
+  },
+  "+855": {
+    "price_info": {
+      "aws": 0.6334,
+      "tw": 0.2817,
+      "tencent": 0.384
+    },
+    "price_min": "tw"
+  },
+  "+1869": {
+    "price_info": {
+      "aws": 0.3773,
+      "tw": 0.3521,
+      "tencent": 0.649
+    },
+    "price_min": "tw"
+  },
+  "+82": {
+    "price_info": {
+      "aws": 0.1545,
+      "tw": 0.3009,
+      "tencent": 0.245
+    },
+    "price_min": "aws"
+  },
+  "+961": {
+    "price_info": {
+      "aws": 0.4583,
+      "tw": 0.3809,
+      "tencent": 0.318
+    },
+    "price_min": "tencent"
+  },
+  "+266": {
+    "price_info": {
+      "aws": 0.128,
+      "tw": 0.5249,
+      "tencent": 0.403
+    },
+    "price_min": "aws"
+  },
+  "+95": {
+    "price_info": {
+      "aws": 0.8951,
+      "tw": 0.5697,
+      "tencent": 0.644
+    },
+    "price_min": "tw"
+  },
+  "+676": {
+    "price_info": {
+      "aws": 0.231,
+      "tw": 0.3188,
+      "tencent": 0.254
+    },
+    "price_min": "aws"
+  },
+  "+27": {
+    "price_info": {
+      "aws": 0.1267,
+      "tw": 0.1728,
+      "tencent": 0.219
+    },
+    "price_min": "aws"
+  },
+  "+595": {
+    "price_info": {
+      "aws": 0.1517,
+      "tw": 0.1024,
+      "tencent": 0.21
+    },
+    "price_min": "tw"
+  },
+  "+973": {
+    "price_info": {
+      "aws": 0.1142,
+      "tw": 0.1504,
+      "tencent": 0.157
+    },
+    "price_min": "aws"
+  },
+  "+682": {
+    "price_info": {
+      "aws": 0.1113,
+      "tw": 0.2849,
+      "tencent": 0.276
+    },
+    "price_min": "aws"
+  },
+  "+420": {
+    "price_info": {
+      "aws": 0.4231,
+      "tw": 0.3137,
+      "tencent": 0.549
+    },
+    "price_min": "tw"
+  },
+  "+298": {
+    "price_info": {
+      "aws": 0.052,
+      "tw": 0.1043,
+      "tencent": 0.108
+    },
+    "price_min": "aws"
+  },
+  "+81": {
+    "price_info": {
+      "aws": 0.477,
+      "tw": 0.5121,
+      "tencent": 0.514
+    },
+    "price_min": "aws"
+  },
+  "+218": {
+    "price_info": {
+      "aws": 0.7016,
+      "tw": 0.6369,
+      "tencent": 0.39
+    },
+    "price_min": "tencent"
+  },
+  "+60": {
+    "price_info": {
+      "aws": 0.3594,
+      "tw": 0.3137,
+      "tencent": 0.248
+    },
+    "price_min": "tencent"
+  },
+  "+252": {
+    "price_info": {
+      "aws": 0.7065,
+      "tw": 0.6369,
+      "tencent": 0.598
+    },
+    "price_min": "tencent"
+  },
+  "+992": {
+    "price_info": {
+      "aws": 0.8028,
+      "tw": 0.765,
+      "tencent": 0.416
+    },
+    "price_min": "tencent"
+  },
+  "+66": {
+    "price_info": {
+      "aws": 0.0814,
+      "tw": 0.1856,
+      "tencent": 0.132
+    },
+    "price_min": "aws"
+  },
+  "+971": {
+    "price_info": {
+      "aws": 0.2356,
+      "tw": 0.1984,
+      "tencent": 0.284
+    },
+    "price_min": "tw"
+  },
+  "+1441": {
+    "price_info": {
+      "aws": 0.3904,
+      "tw": 0.192,
+      "tencent": 0.375
+    },
+    "price_min": "tw"
+  },
+  "+49": {
+    "price_info": {
+      "aws": 0.5664,
+      "tw": 0.5441,
+      "tencent": 0.685
+    },
+    "price_min": "tw"
+  },
+  "+241": {
+    "price_info": {
+      "aws": 0.4309,
+      "tw": 0.669,
+      "tencent": 0.245
+    },
+    "price_min": "tencent"
+  },
+  "+964": {
+    "price_info": {
+      "aws": 0.8548,
+      "tw": 0.2849,
+      "tencent": 0.419
+    },
+    "price_min": "tw"
+  },
+  "+976": {
+    "price_info": {
+      "aws": 0.8172,
+      "tw": 0.4961,
+      "tencent": 0.442
+    },
+    "price_min": "tencent"
+  },
+  "+250": {
+    "price_info": {
+      "aws": 0.2223,
+      "tw": 0.3489,
+      "tencent": 0.251
+    },
+    "price_min": "aws"
+  },
+  "+216": {
+    "price_info": {
+      "aws": 0.7364,
+      "tw": 0.6369,
+      "tencent": 0.86
+    },
+    "price_min": "tw"
+  },
+  "+92": {
+    "price_info": {
+      "aws": 0.5071,
+      "tw": 0.4641,
+      "tencent": 0.155
+    },
+    "price_min": "tencent"
+  },
+  "+55": {
+    "price_info": {
+      "aws": 0.147,
+      "tw": 0.1856,
+      "tencent": 0.114
+    },
+    "price_min": "tencent"
+  },
+  "+267": {
+    "price_info": {
+      "aws": 0.2452,
+      "tw": 0.6081,
+      "tencent": 0.292
+    },
+    "price_min": "aws"
+  },
+  "+225": {
+    "price_info": {
+      "aws": 0.4231,
+      "tw": 0.5121,
+      "tencent": 0.561
+    },
+    "price_min": "aws"
+  },
+  "+506": {
+    "price_info": {
+      "aws": 0.2995,
+      "tw": 0.2561,
+      "tencent": 0.475
+    },
+    "price_min": "tw"
+  },
+  "+509": {
+    "price_info": {
+      "aws": 0.4773,
+      "tw": 0.4129,
+      "tencent": 0.581
+    },
+    "price_min": "tw"
+  },
+  "+264": {
+    "price_info": {
+      "aws": 0.2254,
+      "tw": 0.2561,
+      "tencent": 0.294
+    },
+    "price_min": "aws"
+  },
+  "+977": {
+    "price_info": {
+      "aws": 0.9613,
+      "tw": 0.6722,
+      "tencent": 0.705
+    },
+    "price_min": "tw"
+  },
+  "+256": {
+    "price_info": {
+      "aws": 0.8559,
+      "tw": 0.4161,
+      "tencent": 0.532
+    },
+    "price_min": "tw"
+  },
+  "+1242": {
+    "price_info": {
+      "aws": 0.4488,
+      "tw": 0.3201,
+      "tencent": 0.267
+    },
+    "price_min": "tencent"
+  },
+  "+237": {
+    "price_info": {
+      "aws": 0.2314,
+      "tw": 0.4852,
+      "tencent": 0.375
+    },
+    "price_min": "aws"
+  },
+  "+357": {
+    "price_info": {
+      "aws": 0.1917,
+      "tw": 0.5268,
+      "tencent": 0.229
+    },
+    "price_min": "aws"
+  },
+  "+291": {
+    "price_info": {
+      "aws": 0.6869,
+      "tw": 0.6402,
+      "tencent": 0.627
+    },
+    "price_min": "tencent"
+  },
+  "+353": {
+    "price_info": {
+      "aws": 0.6117,
+      "tw": 0.4481,
+      "tencent": 0.564
+    },
+    "price_min": "tw"
+  },
+  "+239": {
+    "price_info": {
+      "aws": 0.141,
+      "tw": 0.192,
+      "tencent": 0.787
+    },
+    "price_min": "aws"
+  },
+  "+975": {
+    "price_info": {
+      "aws": 0.064,
+      "tw": 0.701,
+      "tencent": 0.271
+    },
+    "price_min": "aws"
+  },
+  "+856": {
+    "price_info": {
+      "aws": 0.3434,
+      "tw": 0.3489,
+      "tencent": 0.312
+    },
+    "price_min": "tencent"
+  },
+  "+974": {
+    "price_info": {
+      "aws": 0.2543,
+      "tw": 0.3905,
+      "tencent": 0.36
+    },
+    "price_min": "aws"
+  },
+  "+48": {
+    "price_info": {
+      "aws": 0.2063,
+      "tw": 0.2625,
+      "tencent": 0.282
+    },
+    "price_min": "aws"
+  },
+  "+229": {
+    "price_info": {
+      "aws": 0.4247,
+      "tw": 0.064,
+      "tencent": 0.341
+    },
+    "price_min": "tw"
+  },
+  "+220": {
+    "price_info": {
+      "aws": 0.0445,
+      "tw": 0.1888,
+      "tencent": 0.311
+    },
+    "price_min": "aws"
+  },
+  "+1345": {
+    "price_info": {
+      "aws": 0.302,
+      "tw": 0.3137,
+      "tencent": 0.317
+    },
+    "price_min": "aws"
+  },
+  "+389": {
+    "price_info": {
+      "aws": 0.1754,
+      "tw": 0.3777,
+      "tencent": 0.208
+    },
+    "price_min": "aws"
+  },
+  "+222": {
+    "price_info": {
+      "aws": 0.7466,
+      "tw": 0.5761,
+      "tencent": 0.548
+    },
+    "price_min": "tencent"
+  },
+  "+689": {
+    "price_info": {
+      "aws": 0.6151,
+      "tw": 1.0959,
+      "tencent": 0.854
+    },
+    "price_min": "aws"
+  },
+  "+63": {
+    "price_info": {
+      "aws": 0.104,
+      "tw": 0.2561,
+      "tencent": 0.243
+    },
+    "price_min": "aws"
+  },
+  "+1268": {
+    "price_info": {
+      "aws": 0.1992,
+      "tw": 0.2881,
+      "tencent": 0.535
+    },
+    "price_min": "aws"
+  },
+  "+1767": {
+    "price_info": {
+      "aws": 0.167,
+      "tw": 0.3073,
+      "tencent": 0.377
+    },
+    "price_min": "aws"
+  },
+  "+505": {
+    "price_info": {
+      "aws": 0.4384,
+      "tw": 0.3777,
+      "tencent": 0.497
+    },
+    "price_min": "tw"
+  },
+  "+675": {
+    "price_info": {
+      "aws": 0.1684,
+      "tw": 0.2561,
+      "tencent": 0.474
+    },
+    "price_min": "aws"
+  },
+  "+597": {
+    "price_info": {
+      "aws": 0.1118,
+      "tw": 0.1043,
+      "tencent": 0.339
+    },
+    "price_min": "tw"
+  },
+  "+598": {
+    "price_info": {
+      "aws": 0.4684,
+      "tw": 0.4289,
+      "tencent": 0.749
+    },
+    "price_min": "tw"
+  },
+  "+244": {
+    "price_info": {
+      "aws": 0.575,
+      "tw": 0.3201,
+      "tencent": 0.434
+    },
+    "price_min": "tw"
+  },
+  "+599": {
+    "price_info": {
+      "aws": 0.441,
+      "tw": 0.048,
+      "tencent": 0.335
+    },
+    "price_min": "tw"
+  },
+  "+995": {
+    "price_info": {
+      "aws": 0.9805,
+      "tw": 0.4481,
+      "tencent": 0.149
+    },
+    "price_min": "tencent"
+  },
+  "+230": {
+    "price_info": {
+      "aws": 0.2053,
+      "tw": 0.4161,
+      "tencent": 0.349
+    },
+    "price_min": "aws"
+  },
+  "+380": {
+    "price_info": {
+      "aws": 0.7487,
+      "tw": 0.5569,
+      "tencent": 0.365
+    },
+    "price_min": "tencent"
+  },
+  "+1246": {
+    "price_info": {
+      "aws": 0.4557,
+      "tw": 0.2221,
+      "tencent": 0.357
+    },
+    "price_min": "tw"
+  },
+  "+56": {
+    "price_info": {
+      "aws": 0.2023,
+      "tw": 0.3713,
+      "tencent": 0.466
+    },
+    "price_min": "aws"
+  },
+  "+251": {
+    "price_info": {
+      "aws": 0.8453,
+      "tw": 0.7202,
+      "tencent": 0.23
+    },
+    "price_min": "tencent"
+  },
+  "+62": {
+    "price_info": {
+      "aws": 1.0289,
+      "tw": 0.1844,
+      "tencent": 0.595
+    },
+    "price_min": "tw"
+  },
+  "+994": {
+    "price_info": {
+      "aws": 1.736,
+      "tw": 0.9154,
+      "tencent": 1.001
+    },
+    "price_min": "tw"
+  },
+  "+44": {
+    "price_info": {
+      "aws": 0.2489,
+      "tw": 0.2561,
+      "tencent": 0.318
+    },
+    "price_min": "aws"
+  },
+  "+504": {
+    "price_info": {
+      "aws": 0.3903,
+      "tw": 0.3214,
+      "tencent": 0.442
+    },
+    "price_min": "tw"
+  },
+  "+39": {
+    "price_info": {
+      "aws": 0.4801,
+      "tw": 0.5653,
+      "tencent": 0.564
+    },
+    "price_min": "aws"
+  },
+  "+996": {
+    "price_info": {
+      "aws": 0.9446,
+      "tw": 0.765,
+      "tencent": 0.386
+    },
+    "price_min": "tencent"
+  },
+  "+269": {
+    "price_info": {
+      "aws": 1.3065,
+      "tw": 0.8597,
+      "tencent": 1.088
+    },
+    "price_min": "tw"
+  },
+  "+84": {
+    "price_info": {
+      "aws": 0.3371,
+      "tw": 0.3834,
+      "tencent": 0.343
+    },
+    "price_min": "aws"
+  },
+  "+680": {
+    "price_info": {
+      "aws": 0.0687,
+      "tw": 0.6081,
+      "tencent": 0.586
+    },
+    "price_min": "aws"
+  },
+  "+54": {
+    "price_info": {
+      "aws": 0.3306,
+      "tw": 0.4423,
+      "tencent": 0.206
+    },
+    "price_min": "tencent"
+  },
+  "+253": {
+    "price_info": {
+      "aws": 0.1803,
+      "tw": 0.6402,
+      "tencent": 0.758
+    },
+    "price_min": "aws"
+  },
+  "+20": {
+    "price_info": {
+      "aws": 0.6315,
+      "tw": 0.5409,
+      "tencent": 0.546
+    },
+    "price_min": "tw"
+  },
+  "+299": {
+    "price_info": {
+      "aws": 0.0246,
+      "tw": 0.2497,
+      "tencent": 0.088
+    },
+    "price_min": "aws"
+  },
+  "+94": {
+    "price_info": {
+      "aws": 0.8244,
+      "tw": 0.4161,
+      "tencent": 0.473
+    },
+    "price_min": "tw"
+  },
+  "+234": {
+    "price_info": {
+      "aws": 0.5304,
+      "tw": 0.6369,
+      "tencent": 0.553
+    },
+    "price_min": "aws"
+  },
+  "+1284": {
+    "price_info": {
+      "aws": 0.1632,
+      "tw": 0.048,
+      "tencent": 0.329
+    },
+    "price_min": "tw"
+  },
+  "+376": {
+    "price_info": {
+      "aws": 0.2561,
+      "tw": 0.6369,
+      "tencent": 0.446
+    },
+    "price_min": "aws"
+  },
+  "+226": {
+    "price_info": {
+      "aws": 0.3996,
+      "tw": 0.3201,
+      "tencent": 0.532
+    },
+    "price_min": "tw"
+  },
+  "+423": {
+    "price_info": {
+      "aws": 0.0919,
+      "tw": 0.194,
+      "tencent": 0.203
+    },
+    "price_min": "aws"
+  },
+  "+377": {
+    "price_info": {
+      "aws": 0.5533,
+      "tw": 0.9711,
+      "tencent": 0.437
+    },
+    "price_min": "tencent"
+  },
+  "+378": {
+    "price_info": {
+      "aws": 0.0624,
+      "tw": 0.555,
+      "tencent": 0.402
+    },
+    "price_min": "aws"
+  },
+  "+670": {
+    "price_info": {
+      "aws": 0.4887,
+      "tw": 0.555,
+      "tencent": 0.449
+    },
+    "price_min": "tencent"
+  },
+  "+998": {
+    "price_info": {
+      "aws": 0.8049,
+      "tw": 0.7042,
+      "tencent": 0.967
+    },
+    "price_min": "tw"
+  }
+}
