@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-'''
+"""
 encoding: utf-8
 Author  : tom_tao626@163.com >
 Datetime : 2019/10/28 22:06
@@ -7,15 +7,16 @@ User   : Administrator
 Product  : PyCharm
 Project  : codes
 File   : plane_main.py
-'''
+"""
 import pygame
+
 from plane_sprites import *
 
 
 class PlaenGame(object):
-	'''
+	"""
     飞机大战主游戏
-    '''
+    """
 
 	def __init__(self):
 		print("游戏初始化")
@@ -71,8 +72,8 @@ class PlaenGame(object):
 				self.enemy_group.add(enemy)
 			elif event.type == HERO_FIRE_EVENT:
 				self.hero.fire()
-			# elif event.type == pygame.KEYDOWN and event.key == pygame.K_RIGHT:
-			#     print("向右移动....")
+		# elif event.type == pygame.KEYDOWN and event.key == pygame.K_RIGHT:
+		#     print("向右移动....")
 		# 使用键盘模块获取按键--按键元组
 		keys_pressed = pygame.key.get_pressed()
 		# 判断元组对应的按键
