@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-'''
+"""
 encoding: utf-8
 Author  : tom_tao626@163.com >
 Datetime : 2019/10/22 23:44
@@ -7,7 +7,7 @@ User   : Administrator
 Product  : PyCharm
 Project  : codes
 File   : hm_05_绘制英雄图像.py
-'''
+"""
 import pygame
 
 pygame.init()

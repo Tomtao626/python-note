@@ -1,51 +1,49 @@
 # -*- coding: utf-8 -*-
-'''
+"""
 encoding: utf-8
 Author  : tom_tao626@163.com >
-Datetime : 2019/10/25 23:16
+Datetime : 2019/10/22 23:52
 User   : Administrator
 Product  : PyCharm
 Project  : codes
-File   : hm_07_演练精灵.py
-'''
+File   : hm_06_update方法.py
+"""
 import pygame
-from plane_sprites import *
 
-# 游戏的初始化
 pygame.init()
 
-# 游戏的窗口创建 480*700
 screen = pygame.display.set_mode((480,700))
 
 # 绘制背景图像
+#     1 加载数据
 bg = pygame.image.load("./images/background.png")
+#     2 blit绘制图像
 screen.blit(bg,(0,0))
+#     3 update更新屏幕提示
+# pygame.display.update()
 
 # 绘制英雄的飞机
 hero = pygame.image.load("./images/me1.png")
 screen.blit(hero,(150,300))
 
-# 可以在所有绘制工作完成之后，同意调用update()方法
-pygame.display.update()
 
-# 创建时钟对象
 clock = pygame.time.Clock()
+# 定义英雄的初始位置
+hero_rect = pygame.Rect(150,500,102,126)
+i = 0
 
-# 1. 定义rect记录飞机的初始位置
-hero_rect = pygame.Rect(150,300,102,126)
+# 可以在所有绘制工作完成以后，统一更新
+# pygame.display.update()
 
-# 创建敌机的精灵
-enemy = GameSprite("./images/enemy1.png")
-enemy1 = GameSprite("./images/enemy1.png",2)
-
-# 创建敌机的精灵组
-enemy_group = pygame.sprite.Group(enemy,enemy1)
-
-
-# 游戏训话 意味着游戏正式开始
 while True:
-    # 指定循环体内代码执行的频率
+
+    # 指定循环体内的代码执行的频率
     clock.tick(60)
+
+    # # 捕获事件
+    # event_list = pygame.event.get()
+    # if len(event_list):
+    #     print(event_list)
 
     # 监听事件
     for event in pygame.event.get():
@@ -62,21 +60,14 @@ while True:
     hero_rect.y -= 1
 
     # 如果移出屏幕，则将英雄的顶部移动到屏幕顶部
-    if hero_rect.y <= 0:
+    if hero_rect.y <=0:
         hero_rect.y = 700
 
     # 绘制背景图片
-    screen.blit(bg, (0, 0))
+    screen.blit(bg,(0,0))
 
     # 绘制英雄图像
-    screen.blit(hero, hero_rect)
-
-    # 让精灵组调用两个方法
-    #update 让组中的所有精灵更新位置
-    enemy_group.update()
-
-    #draw 在screen上绘制所有的精灵
-    enemy_group.draw(screen)
+    screen.blit(hero,hero_rect)
 
     # 更新显示
     pygame.display.update()
