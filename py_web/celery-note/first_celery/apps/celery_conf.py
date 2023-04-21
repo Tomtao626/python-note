@@ -2,7 +2,8 @@ BROKER_URL = "redis://localhost:6379/1"
 CELERY_RESULT_BACKEND = "redis://localhost:6379/2"
 CELERY_IMPORTS = (
     'apps.task1',
-    'apps.task2'
+    'apps.task2',
+    'apps.beat_task',
 )
 # 设置时区
 CELERY_TIMEZONE = "Asia/Shanghai"
